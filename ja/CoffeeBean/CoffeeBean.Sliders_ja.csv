@@ -1,29 +1,29 @@
-Key,en,ja
-Eyelash Length,Eyelash Length,まつげの長さ
-Brows Distance,Brows Distance,眉間の距離
-Brows Height,Brows Height,眉の高さ
-Ear Shape 1,Ear Shape 1,耳の形1
-Ear Shape 2,Ear Shape 2,耳の形2
-Hair Bang >< Length,Hair Bang >< Length,前髪 >< 長さ
-Hair Bang >< Shear,Hair Bang >< Shear,ヘアバング >< シアー
-Hair Bang >> Position,Hair Bang >> Position,前髪 >> ポジション
-Hair Bang >> Length,Hair Bang >> Length,前髪 >> 長さ
-Hair Bang >> Shear,Hair Bang >> Shear,ヘアバング >> シアー
-Hair Bang << Position,Hair Bang << Position,前髪 << 位置
-Hair Bang << Length,Hair Bang << Length,前髪 << 長さ
-Hair Bang << Shear,Hair Bang << Shear,ヘアバング << シアー
-Hair Framing << Length,Hair Framing << Length,髪のフレーミング << 長さ
-Hair Framing >> Length,Hair Framing >> Length,ヘアフレーミング >> 長さ
-Hair Side Length,Hair Side Length,髪のサイドの長さ
-Hair Rear Length,Hair Rear Length,後ろ髪の長さ
-Ahoge Position,Ahoge Position,アホ毛の位置
-Ahoge Angle,Ahoge Angle,アホ毛アングル
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,動物の耳とアンテナの位置
-Fin & Gill Position,Fin & Gill Position,ヒレとエラの位置
-Halo Position,Halo Position,ハローポジション
-Hat Position,Hat Position,帽子の位置
-Horn >> Length,Horn >> Length,ホーン >> 長さ
-Horn << Length,Horn << Length,ホルン << 長さ
-Horn >< Length,Horn >< Length,ホーン >< 長さ
-Horn Position,Horn Position,ホーンの位置
-Ear Wing Position,Ear Wing Position,耳翅の位置
+Key,en,ja,reviewed
+Eyelash Length,Eyelash Length,まつげの長さ,False
+Brows Distance,Brows Distance,眉間の距離,False
+Brows Height,Brows Height,眉の高さ,False
+Ear Shape 1,Ear Shape 1,耳の形1,False
+Ear Shape 2,Ear Shape 2,耳の形2,False
+Hair Bang >< Length,Hair Bang >< Length,前髪 >< 長さ,False
+Hair Bang >< Shear,Hair Bang >< Shear,ヘアバング >< シアー,False
+Hair Bang >> Position,Hair Bang >> Position,前髪 >> ポジション,False
+Hair Bang >> Length,Hair Bang >> Length,前髪 >> 長さ,False
+Hair Bang >> Shear,Hair Bang >> Shear,ヘアバング >> シアー,False
+Hair Bang << Position,Hair Bang << Position,前髪 << 位置,False
+Hair Bang << Length,Hair Bang << Length,前髪 << 長さ,False
+Hair Bang << Shear,Hair Bang << Shear,ヘアバング << シアー,False
+Hair Framing << Length,Hair Framing << Length,髪のフレーミング << 長さ,False
+Hair Framing >> Length,Hair Framing >> Length,ヘアフレーミング >> 長さ,False
+Hair Side Length,Hair Side Length,髪のサイドの長さ,False
+Hair Rear Length,Hair Rear Length,後ろ髪の長さ,False
+Ahoge Position,Ahoge Position,アホ毛の位置,False
+Ahoge Angle,Ahoge Angle,アホ毛アングル,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,動物の耳とアンテナの位置,False
+Fin & Gill Position,Fin & Gill Position,ヒレとエラの位置,False
+Halo Position,Halo Position,ハローポジション,False
+Hat Position,Hat Position,帽子の位置,False
+Horn >> Length,Horn >> Length,ホーン >> 長さ,False
+Horn << Length,Horn << Length,ホルン << 長さ,False
+Horn >< Length,Horn >< Length,ホーン >< 長さ,False
+Horn Position,Horn Position,ホーンの位置,False
+Ear Wing Position,Ear Wing Position,耳翅の位置,False

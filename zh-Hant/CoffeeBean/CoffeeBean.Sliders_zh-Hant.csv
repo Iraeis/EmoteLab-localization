@@ -1,29 +1,29 @@
-﻿Key,en,zh-Hant
-Eyelash Length,Eyelash Length,
-Brows Distance,Brows Distance,
-Brows Height,Brows Height,
-Ear Shape 1,Ear Shape 1,
-Ear Shape 2,Ear Shape 2,
-Hair Bang >< Length,Hair Bang >< Length,
-Hair Bang >< Shear,Hair Bang >< Shear,
-Hair Bang >> Position,Hair Bang >> Position,
-Hair Bang >> Length,Hair Bang >> Length,
-Hair Bang >> Shear,Hair Bang >> Shear,
-Hair Bang << Position,Hair Bang << Position,
-Hair Bang << Length,Hair Bang << Length,
-Hair Bang << Shear,Hair Bang << Shear,
-Hair Framing << Length,Hair Framing << Length,
-Hair Framing >> Length,Hair Framing >> Length,
-Hair Side Length,Hair Side Length,
-Hair Rear Length,Hair Rear Length,
-Ahoge Position,Ahoge Position,
-Ahoge Angle,Ahoge Angle,
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,
-Fin & Gill Position,Fin & Gill Position,
-Halo Position,Halo Position,
-Hat Position,Hat Position,
-Horn >> Length,Horn >> Length,
-Horn << Length,Horn << Length,
-Horn >< Length,Horn >< Length,
-Horn Position,Horn Position,
-Ear Wing Position,Ear Wing Position,
+Key,en,zh-Hant,reviewed
+Eyelash Length,Eyelash Length,,False
+Brows Distance,Brows Distance,,False
+Brows Height,Brows Height,,False
+Ear Shape 1,Ear Shape 1,,False
+Ear Shape 2,Ear Shape 2,,False
+Hair Bang >< Length,Hair Bang >< Length,,False
+Hair Bang >< Shear,Hair Bang >< Shear,,False
+Hair Bang >> Position,Hair Bang >> Position,,False
+Hair Bang >> Length,Hair Bang >> Length,,False
+Hair Bang >> Shear,Hair Bang >> Shear,,False
+Hair Bang << Position,Hair Bang << Position,,False
+Hair Bang << Length,Hair Bang << Length,,False
+Hair Bang << Shear,Hair Bang << Shear,,False
+Hair Framing << Length,Hair Framing << Length,,False
+Hair Framing >> Length,Hair Framing >> Length,,False
+Hair Side Length,Hair Side Length,,False
+Hair Rear Length,Hair Rear Length,,False
+Ahoge Position,Ahoge Position,,False
+Ahoge Angle,Ahoge Angle,,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,,False
+Fin & Gill Position,Fin & Gill Position,,False
+Halo Position,Halo Position,,False
+Hat Position,Hat Position,,False
+Horn >> Length,Horn >> Length,,False
+Horn << Length,Horn << Length,,False
+Horn >< Length,Horn >< Length,,False
+Horn Position,Horn Position,,False
+Ear Wing Position,Ear Wing Position,,False

@@ -1,79 +1,79 @@
-Key,en,hu
-Alert Bits,Alert Bits,Figyelmeztető bitek
-Alert Donation,Alert Donation,Figyelmeztető adományozás
-Alert Heart,Alert Heart,Figyelmes szív
-Alert Like,Alert Like,Alert Like
-Alert Star,Alert Star,Figyelmeztető csillag
-Angry,Angry,Dühös
-Arrive,Arrive,Megérkezik
-Arrive (with Chopstick),Arrive (with Chopstick),Érkezés (pálcikával)
-Arrive (with Spoon),Arrive (with Spoon),Érkezés (kanállal)
-Bonk,Bonk,Bonk
-Copium,Copium,Copium
-Crowbar 1,Crowbar 1,Vargavas 1
-Crowbar 2,Crowbar 2,Vargavas 2
-Crowbar 3,Crowbar 3,Vargavas 3
-Cry 1,Cry 1,Sírás 1
-Cry 2,Cry 2,Sírás 2
-Cry 3,Cry 3,Sírás 3
-Dead,Dead,Halott
-Dizzy,Dizzy,Szédül
-Drink (Beverage Cup),Drink (Beverage Cup),Ital (italos csésze)
-Drive,Drive,Hajtás
-Drooling (Chopstick),Drooling (Chopstick),Nyálcsorgatás (evőpálcika)
-Drooling (Fork&Knife),Drooling (Fork&Knife),Nyálcsorgatás (villa és kés)
-Dum 1,Dum 1,Dum 1
-Dum 2,Dum 2,Dum 2
-Dum 3,Dum 3,Dum 3
-Dum Sticker 1,Dum Sticker 1,Dum matrica 1
-Dum Sticker 2,Dum Sticker 2,Dum matrica 2
-Dum Sticker 3,Dum Sticker 3,Dum matrica 3
-Exclamation,Exclamation,Felkiáltás
-Jail 1,Jail 1,Börtön 1
-Jail 2,Jail 2,Börtön 2
-Knife 1,Knife 1,Kés 1
-Knife 2,Knife 2,Kés 2
-Laugh,Laugh,Nevetés
-Lick,Lick,Nyalás
-Lightstick 1,Lightstick 1,Lightstick 1
-Lightstick 2,Lightstick 2,Lightstick 2
-Lurk 1,Lurk 1,Lappangás 1
-Lurk 2,Lurk 2,Lappangás 2
-Luv 1,Luv 1,Luv 1
-Luv 2,Luv 2,Luv 2
-Luv 3,Luv 3,Luv 3
-Money,Money,Pénz
-Mute 1,Mute 1,Némítás 1
-Mute 2,Mute 2,Némítás 2
-Nervous 1,Nervous 1,Ideges 1
-Nervous 2,Nervous 2,Ideges 2
-Noted 1,Noted 1,Megjegyezte 1
-Noted 2,Noted 2,Megjegyezte 2
-Pat,Pat,Pat
-Point,Point,Pont
-Question,Question,Kérdés
-Raid 1,Raid 1,Raid 1
-Raid 2,Raid 2,Raid 2
-RedPacket 1,RedPacket 1,RedPacket 1
-RedPacket 2,RedPacket 2,RedPacket 2
-Rose,Rose,Rózsa
-Score (0 Point),Score (0 Point),Pontszám (0 pont)
-Score (10 Point),Score (10 Point),Pontszám (10 pont)
-Shy 1,Shy 1,Félénk 1
-Shy 2,Shy 2,Félénk 2
-Sleep (Normal),Sleep (Normal),Alvás (normál)
-Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Alvás (1. előkészítési szakasz)
-Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Alvás (2. előkészítési szakasz)
-Sleep (UU),Sleep (UU),Alvás (UU)
-Sparkling,Sparkling,Szikrázó
-Surprise,Surprise,Meglepetés
-Sweat,Sweat,Izzad
-Thumb Down,Thumb Down,Lefelé hüvelykujj
-Thumb Up,Thumb Up,Menj fel
-Type Angry,Type Angry,Írd be: Dühös
-Type Annoyed,Type Annoyed,Típus Bosszús
-Type Normal,Type Normal,Normál típus
-Work Angry,Work Angry,Work Angry
-Work Nap,Work Nap,Munkaszünet
-Work Normal,Work Normal,Normál munkavégzés
-Work Tired,Work Tired,Munka fáradt
+Key,en,hu,reviewed
+Alert Bits,Alert Bits,Figyelmeztető bitek,False
+Alert Donation,Alert Donation,Figyelmeztető adományozás,False
+Alert Heart,Alert Heart,Figyelmes szív,False
+Alert Like,Alert Like,Alert Like,False
+Alert Star,Alert Star,Figyelmeztető csillag,False
+Angry,Angry,Dühös,False
+Arrive,Arrive,Megérkezik,False
+Arrive (with Chopstick),Arrive (with Chopstick),Érkezés (pálcikával),False
+Arrive (with Spoon),Arrive (with Spoon),Érkezés (kanállal),False
+Bonk,Bonk,Bonk,False
+Copium,Copium,Copium,False
+Crowbar 1,Crowbar 1,Vargavas 1,False
+Crowbar 2,Crowbar 2,Vargavas 2,False
+Crowbar 3,Crowbar 3,Vargavas 3,False
+Cry 1,Cry 1,Sírás 1,False
+Cry 2,Cry 2,Sírás 2,False
+Cry 3,Cry 3,Sírás 3,False
+Dead,Dead,Halott,False
+Dizzy,Dizzy,Szédül,False
+Drink (Beverage Cup),Drink (Beverage Cup),Ital (italos csésze),False
+Drive,Drive,Hajtás,False
+Drooling (Chopstick),Drooling (Chopstick),Nyálcsorgatás (evőpálcika),False
+Drooling (Fork&Knife),Drooling (Fork&Knife),Nyálcsorgatás (villa és kés),False
+Dum 1,Dum 1,Dum 1,False
+Dum 2,Dum 2,Dum 2,False
+Dum 3,Dum 3,Dum 3,False
+Dum Sticker 1,Dum Sticker 1,Dum matrica 1,False
+Dum Sticker 2,Dum Sticker 2,Dum matrica 2,False
+Dum Sticker 3,Dum Sticker 3,Dum matrica 3,False
+Exclamation,Exclamation,Felkiáltás,False
+Jail 1,Jail 1,Börtön 1,False
+Jail 2,Jail 2,Börtön 2,False
+Knife 1,Knife 1,Kés 1,False
+Knife 2,Knife 2,Kés 2,False
+Laugh,Laugh,Nevetés,False
+Lick,Lick,Nyalás,False
+Lightstick 1,Lightstick 1,Lightstick 1,False
+Lightstick 2,Lightstick 2,Lightstick 2,False
+Lurk 1,Lurk 1,Lappangás 1,False
+Lurk 2,Lurk 2,Lappangás 2,False
+Luv 1,Luv 1,Luv 1,False
+Luv 2,Luv 2,Luv 2,False
+Luv 3,Luv 3,Luv 3,False
+Money,Money,Pénz,False
+Mute 1,Mute 1,Némítás 1,False
+Mute 2,Mute 2,Némítás 2,False
+Nervous 1,Nervous 1,Ideges 1,False
+Nervous 2,Nervous 2,Ideges 2,False
+Noted 1,Noted 1,Megjegyezte 1,False
+Noted 2,Noted 2,Megjegyezte 2,False
+Pat,Pat,Pat,False
+Point,Point,Pont,False
+Question,Question,Kérdés,False
+Raid 1,Raid 1,Raid 1,False
+Raid 2,Raid 2,Raid 2,False
+RedPacket 1,RedPacket 1,RedPacket 1,False
+RedPacket 2,RedPacket 2,RedPacket 2,False
+Rose,Rose,Rózsa,False
+Score (0 Point),Score (0 Point),Pontszám (0 pont),False
+Score (10 Point),Score (10 Point),Pontszám (10 pont),False
+Shy 1,Shy 1,Félénk 1,False
+Shy 2,Shy 2,Félénk 2,False
+Sleep (Normal),Sleep (Normal),Alvás (normál),False
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Alvás (1. előkészítési szakasz),False
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Alvás (2. előkészítési szakasz),False
+Sleep (UU),Sleep (UU),Alvás (UU),False
+Sparkling,Sparkling,Szikrázó,False
+Surprise,Surprise,Meglepetés,False
+Sweat,Sweat,Izzad,False
+Thumb Down,Thumb Down,Lefelé hüvelykujj,False
+Thumb Up,Thumb Up,Menj fel,False
+Type Angry,Type Angry,Írd be: Dühös,False
+Type Annoyed,Type Annoyed,Típus Bosszús,False
+Type Normal,Type Normal,Normál típus,False
+Work Angry,Work Angry,Work Angry,False
+Work Nap,Work Nap,Munkaszünet,False
+Work Normal,Work Normal,Normál munkavégzés,False
+Work Tired,Work Tired,Munka fáradt,False

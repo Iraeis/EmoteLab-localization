@@ -1,29 +1,29 @@
-Key,en,fr
-Eyelash Length,Eyelash Length,Longueur des cils
-Brows Distance,Brows Distance,Distance des sourcils
-Brows Height,Brows Height,Hauteur des sourcils
-Ear Shape 1,Ear Shape 1,Forme d'oreille 1
-Ear Shape 2,Ear Shape 2,Forme d'oreille 2
-Hair Bang >< Length,Hair Bang >< Length,Frange de cheveux >< Longueur
-Hair Bang >< Shear,Hair Bang >< Shear,Frange de cheveux >< Cisaillement
-Hair Bang >> Position,Hair Bang >> Position,Frange de cheveux >> Position
-Hair Bang >> Length,Hair Bang >> Length,Frange de cheveux >> Longueur
-Hair Bang >> Shear,Hair Bang >> Shear,Frange de cheveux >> Cisaillement
-Hair Bang << Position,Hair Bang << Position,Frange de cheveux << Position
-Hair Bang << Length,Hair Bang << Length,Frange de cheveux << Longueur
-Hair Bang << Shear,Hair Bang << Shear,Frange de cheveux << Cisaillement
-Hair Framing << Length,Hair Framing << Length,Encadrement des cheveux << Longueur
-Hair Framing >> Length,Hair Framing >> Length,Cadrage des cheveux >> Longueur
-Hair Side Length,Hair Side Length,Longueur du côté des cheveux
-Hair Rear Length,Hair Rear Length,Longueur arrière des cheveux
-Ahoge Position,Ahoge Position,Position d'Ahoge
-Ahoge Angle,Ahoge Angle,Angle d'Ahoge
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,Position de l'oreille et de l'antenne de l'animal
-Fin & Gill Position,Fin & Gill Position,Position des nageoires et des branchies
-Halo Position,Halo Position,Position du halo
-Hat Position,Hat Position,Position du chapeau
-Horn >> Length,Horn >> Length,Corne >> Longueur
-Horn << Length,Horn << Length,Corne << Longueur
-Horn >< Length,Horn >< Length,Corne >< Longueur
-Horn Position,Horn Position,Position du klaxon
-Ear Wing Position,Ear Wing Position,Position de l'aile de l'oreille
+Key,en,fr,reviewed
+Eyelash Length,Eyelash Length,Longueur des cils,False
+Brows Distance,Brows Distance,Distance des sourcils,False
+Brows Height,Brows Height,Hauteur des sourcils,False
+Ear Shape 1,Ear Shape 1,Forme d'oreille 1,False
+Ear Shape 2,Ear Shape 2,Forme d'oreille 2,False
+Hair Bang >< Length,Hair Bang >< Length,Frange de cheveux >< Longueur,False
+Hair Bang >< Shear,Hair Bang >< Shear,Frange de cheveux >< Cisaillement,False
+Hair Bang >> Position,Hair Bang >> Position,Frange de cheveux >> Position,False
+Hair Bang >> Length,Hair Bang >> Length,Frange de cheveux >> Longueur,False
+Hair Bang >> Shear,Hair Bang >> Shear,Frange de cheveux >> Cisaillement,False
+Hair Bang << Position,Hair Bang << Position,Frange de cheveux << Position,False
+Hair Bang << Length,Hair Bang << Length,Frange de cheveux << Longueur,False
+Hair Bang << Shear,Hair Bang << Shear,Frange de cheveux << Cisaillement,False
+Hair Framing << Length,Hair Framing << Length,Encadrement des cheveux << Longueur,False
+Hair Framing >> Length,Hair Framing >> Length,Cadrage des cheveux >> Longueur,False
+Hair Side Length,Hair Side Length,Longueur du côté des cheveux,False
+Hair Rear Length,Hair Rear Length,Longueur arrière des cheveux,False
+Ahoge Position,Ahoge Position,Position d'Ahoge,False
+Ahoge Angle,Ahoge Angle,Angle d'Ahoge,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Position de l'oreille et de l'antenne de l'animal,False
+Fin & Gill Position,Fin & Gill Position,Position des nageoires et des branchies,False
+Halo Position,Halo Position,Position du halo,False
+Hat Position,Hat Position,Position du chapeau,False
+Horn >> Length,Horn >> Length,Corne >> Longueur,False
+Horn << Length,Horn << Length,Corne << Longueur,False
+Horn >< Length,Horn >< Length,Corne >< Longueur,False
+Horn Position,Horn Position,Position du klaxon,False
+Ear Wing Position,Ear Wing Position,Position de l'aile de l'oreille,False

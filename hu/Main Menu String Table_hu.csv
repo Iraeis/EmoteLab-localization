@@ -1,94 +1,94 @@
-Key,en,hu
-MainMenu.TabHeaderLable.Editor,Editor,Szerkesztő
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Biztosan törölni szeretné a(z) ""{0}"" karaktert? Ez a művelet nem vonható vissza."
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","A(z) ""{0}"" karakter már létezik. Biztosan felül szeretné írni a(z) ""{0}"" karaktert? Ez a művelet nem vonható vissza."
-MainMenu.Confirm,Confirm,Erősítse meg
-MainMenu.Cancel,Cancel,Mégse
-MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,"Kérjük, írjon be egy karakternevet:"
-MainMenu.Editor.Model,Models,Modellek
-MainMenu.Editor.Character,Character,Karakter
-MainMenu.Editor.Animation,Animation,Animáció
-MainMenu.Editor.PartsSelection,Choose Parts,Válassza az Alkatrészek lehetőséget
-MainMenu.Editor.PartsAdjustment,Adjustment,Beállítás
-MainMenu.Search,Search...,Keresés...
-MainMenu.Editor.SaveCharacter,Save Character,Karakter mentése
-MainMenu.Editor.Unload,Clear Character,Tiszta karakter
-MainMenu.Editor.DeleteCharacter,Delete Character,Karakter törlése
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,Egyéni textúrák használata
-MainMenu.Editor.ReloadTextures,Reload Textures,Textúrák újratöltése
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Nyissa meg az Egyéni textúra mappát
-MainMenu.Editor.Color,Color,Szín
-MainMenu.Editor.TintColor,TintColor,TintColor
-MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor
-MainMenu.Editor.LICENSE,LICENSE,ENGEDÉLY
-MainMenu.Editor.AssetTypeAA,Default Assets,Alapértelmezett eszközök
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Harmadik féltől származó eszközök
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,A név nem lehet üres.
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,A név nem haladhatja meg a {0} karaktert.
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","A név nem tartalmazhatja a ""{0}"" karaktert."
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" egy lefoglalt név, és nem használható."
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,A név nem végződhet ponttal.
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,A név nem tartalmazhat csak szóközt.
-MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Töltse ki az aktuális modellt
-MainMenu.Settings.GeneralSettings,General Settings,Általános beállítások
-MainMenu.Settings.GeneralSettings.Language,Language,Nyelv
-MainMenu.Settings.ViewportSettings,Viewport Settings,Nézetablak beállításai
-MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Zoom Speed
-MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Forgási sebesség
-MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modell skála
-MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Eltolás Vízszintes
-MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Függőleges eltolás
-MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Állítsa vissza a nézetablak beállításokat
-MainMenu.Settings.ExportSettings,Animation Export Settings,Animáció exportálási beállításai
-MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Hely mentése
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Előbeállítások exportálása
-MainMenu.Settings.ExportSettings.Encoder,Encoder,Kódoló
-MainMenu.Settings.ExportSettings.Width,Width,Szélesség
-MainMenu.Settings.ExportSettings.Height,Height,Magasság
-MainMenu.Settings.ExportSettings.FPS,FPS,FPS
-MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Limit Max. Képkockaszám
-MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Max. Képkockaszám
-MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Alfa-küszöb
-MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Dithering engedélyezése
-MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Állítsa vissza az exportálási beállításokat
-MainMenu.Editor.Export,Export Emote,Export Emote
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,"A modell készítője által biztosított licenc. Csak referenciaként jelenik meg, és nem képviseli az EmoteLab fejlesztő nézeteit vagy jogi álláspontját."
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Az engedély nem található. Az engedélyezett felhasználás megerősítése az alkotóval.
-LicensePopup.Close,Close,Közeli
-MainMenu.Editor.OpenExportFolder,Open Export Folder,Nyissa meg az Exportálás mappát
-MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Töltsön be mintakaraktereket a beépített modellekhez
-MainMenu.Settings.ModelSettings,Model Settings,Modell beállításai
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Karakteradatok mentése...
-MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Karakter betöltése...
-MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Harmadik fél licencei
-MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Végfelhasználói licencszerződés (EULA)
-MainMenu.Info.Documentation,Documentation,Dokumentáció
-MainMenu.Info.Discord,Join Our Discord,Csatlakozz Discordunkhoz
-MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","Ez az előbeállítás beállítja a megfelelő formátumot és méreteket. A nagyon hosszú animációk meghaladhatják a platform fájlméret-korlátait, és egyes platformok korlátoznak bizonyos tartalmakat."
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Nyissa meg a Helyi Modell mappát
-MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Nyissa meg a Karakter mappát
-MainMenu.Info.Log,Open Log Folder,Nyissa meg a Napló mappát
-MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Globális színtábla használata
-MainMenu.Editor.ExportStatic,Export Static Image,Statikus kép exportálása
-MainMenu.Editor.Player.Speed,Speed,Sebesség
-MainMenu.Settings.StaticImageSettings,Static Image Settings,Statikus képbeállítások
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Állítsa vissza a statikus képbeállításokat
-MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Mintavételi sebesség
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Ezzel a kapcsolóval válthat a belső és az egyéni textúra között
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,"Szerkessze a PNG-ket az Egyéni textúra mappában. Mentse átlátszósággal, és ne módosítsa a képméretet"
-MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","A módosítások mentése után kattintson erre a gombra, hogy alkalmazza a módosításokat a modellen."
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Mentsd meg a karaktered. A mentés gomb a karakterlista alatt található a felület bal oldalán.
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Kérjük, olvassa el az Egyéni textúrák használata kézikönyvet a funkció használata előtt."
-MainMenu.Editor.Texture.CustomTexture,Custom Texture,Egyedi textúra
-MainMenu.Editor.Texture.Step1,Step 1,1. lépés
-MainMenu.Editor.Texture.Step2,Step 2,2. lépés
-MainMenu.Editor.Texture.Step3,Step 3,3. lépés
-MainMenu.Editor.Texture.Step4,Step 4,4. lépés
-MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Javítsa ki a kiválasztott körvonalat
-MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Állítsa vissza a kiválasztott atlaszt
-MainMenu.Editor.Texture.TextureUtility,Texture Utility,Texture Utility
-MainMenu.Editor.Texture.SelectAll,Select All,Válassza az Összes lehetőséget
-MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Kiválasztás váltása
-MainMenu.Editor.Texture.AtlasList,Atlas List,Atlasz lista
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,"Ezzel visszaállítja a kiválasztott atlaszoldalakat a beépített verziókra. A nem mentett szerkesztések elvesznek, és nem állíthatók vissza. Folytatja?"
-MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Paletta algoritmus
+Key,en,hu,reviewed
+MainMenu.TabHeaderLable.Editor,Editor,Szerkesztő,False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Biztosan törölni szeretné a(z) ""{0}"" karaktert? Ez a művelet nem vonható vissza.",False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","A(z) ""{0}"" karakter már létezik. Biztosan felül szeretné írni a(z) ""{0}"" karaktert? Ez a művelet nem vonható vissza.",False
+MainMenu.Confirm,Confirm,Erősítse meg,False
+MainMenu.Cancel,Cancel,Mégse,False
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,"Kérjük, írjon be egy karakternevet:",False
+MainMenu.Editor.Model,Models,Modellek,False
+MainMenu.Editor.Character,Character,Karakter,False
+MainMenu.Editor.Animation,Animation,Animáció,False
+MainMenu.Editor.PartsSelection,Choose Parts,Válassza az Alkatrészek lehetőséget,False
+MainMenu.Editor.PartsAdjustment,Adjustment,Beállítás,False
+MainMenu.Search,Search...,Keresés...,False
+MainMenu.Editor.SaveCharacter,Save Character,Karakter mentése,False
+MainMenu.Editor.Unload,Clear Character,Tiszta karakter,False
+MainMenu.Editor.DeleteCharacter,Delete Character,Karakter törlése,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Egyéni textúrák használata,False
+MainMenu.Editor.ReloadTextures,Reload Textures,Textúrák újratöltése,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Nyissa meg az Egyéni textúra mappát,False
+MainMenu.Editor.Color,Color,Szín,False
+MainMenu.Editor.TintColor,TintColor,TintColor,False
+MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
+MainMenu.Editor.LICENSE,LICENSE,ENGEDÉLY,False
+MainMenu.Editor.AssetTypeAA,Default Assets,Alapértelmezett eszközök,False
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Harmadik féltől származó eszközök,False
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,A név nem lehet üres.,False
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,A név nem haladhatja meg a {0} karaktert.,False
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","A név nem tartalmazhatja a ""{0}"" karaktert.",False
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" egy lefoglalt név, és nem használható.",False
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,A név nem végződhet ponttal.,False
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,A név nem tartalmazhat csak szóközt.,False
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Töltse ki az aktuális modellt,False
+MainMenu.Settings.GeneralSettings,General Settings,Általános beállítások,False
+MainMenu.Settings.GeneralSettings.Language,Language,Nyelv,False
+MainMenu.Settings.ViewportSettings,Viewport Settings,Nézetablak beállításai,False
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Zoom Speed,False
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Forgási sebesség,False
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modell skála,False
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Eltolás Vízszintes,False
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Függőleges eltolás,False
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Állítsa vissza a nézetablak beállításokat,False
+MainMenu.Settings.ExportSettings,Animation Export Settings,Animáció exportálási beállításai,False
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Hely mentése,False
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Előbeállítások exportálása,False
+MainMenu.Settings.ExportSettings.Encoder,Encoder,Kódoló,False
+MainMenu.Settings.ExportSettings.Width,Width,Szélesség,False
+MainMenu.Settings.ExportSettings.Height,Height,Magasság,False
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,False
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Limit Max. Képkockaszám,False
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Max. Képkockaszám,False
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Alfa-küszöb,False
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Dithering engedélyezése,False
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Állítsa vissza az exportálási beállításokat,False
+MainMenu.Editor.Export,Export Emote,Export Emote,False
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,"A modell készítője által biztosított licenc. Csak referenciaként jelenik meg, és nem képviseli az EmoteLab fejlesztő nézeteit vagy jogi álláspontját.",False
+LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Az engedély nem található. Az engedélyezett felhasználás megerősítése az alkotóval.,False
+LicensePopup.Close,Close,Közeli,False
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Nyissa meg az Exportálás mappát,False
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Töltsön be mintakaraktereket a beépített modellekhez,False
+MainMenu.Settings.ModelSettings,Model Settings,Modell beállításai,False
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Karakteradatok mentése...,False
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Karakter betöltése...,False
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Harmadik fél licencei,False
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Végfelhasználói licencszerződés (EULA),False
+MainMenu.Info.Documentation,Documentation,Dokumentáció,False
+MainMenu.Info.Discord,Join Our Discord,Csatlakozz Discordunkhoz,False
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","Ez az előbeállítás beállítja a megfelelő formátumot és méreteket. A nagyon hosszú animációk meghaladhatják a platform fájlméret-korlátait, és egyes platformok korlátoznak bizonyos tartalmakat.",False
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Nyissa meg a Helyi Modell mappát,False
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Nyissa meg a Karakter mappát,False
+MainMenu.Info.Log,Open Log Folder,Nyissa meg a Napló mappát,False
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Globális színtábla használata,False
+MainMenu.Editor.ExportStatic,Export Static Image,Statikus kép exportálása,False
+MainMenu.Editor.Player.Speed,Speed,Sebesség,False
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Statikus képbeállítások,False
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Állítsa vissza a statikus képbeállításokat,False
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Mintavételi sebesség,False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Ezzel a kapcsolóval válthat a belső és az egyéni textúra között,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,"Szerkessze a PNG-ket az Egyéni textúra mappában. Mentse átlátszósággal, és ne módosítsa a képméretet",False
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","A módosítások mentése után kattintson erre a gombra, hogy alkalmazza a módosításokat a modellen.",False
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Mentsd meg a karaktered. A mentés gomb a karakterlista alatt található a felület bal oldalán.,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Kérjük, olvassa el az Egyéni textúrák használata kézikönyvet a funkció használata előtt.",False
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Egyedi textúra,False
+MainMenu.Editor.Texture.Step1,Step 1,1. lépés,False
+MainMenu.Editor.Texture.Step2,Step 2,2. lépés,False
+MainMenu.Editor.Texture.Step3,Step 3,3. lépés,False
+MainMenu.Editor.Texture.Step4,Step 4,4. lépés,False
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Javítsa ki a kiválasztott körvonalat,False
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Állítsa vissza a kiválasztott atlaszt,False
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Texture Utility,False
+MainMenu.Editor.Texture.SelectAll,Select All,Válassza az Összes lehetőséget,False
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Kiválasztás váltása,False
+MainMenu.Editor.Texture.AtlasList,Atlas List,Atlasz lista,False
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,"Ezzel visszaállítja a kiválasztott atlaszoldalakat a beépített verziókra. A nem mentett szerkesztések elvesznek, és nem állíthatók vissza. Folytatja?",False
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Paletta algoritmus,False

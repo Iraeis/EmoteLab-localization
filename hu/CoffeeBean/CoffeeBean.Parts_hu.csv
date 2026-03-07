@@ -1,61 +1,61 @@
-Key,en,hu
-Brows,Brows,Szemöldök
-Ear,Ear,Fül
-Eye,Eye,Szem
-Base Hair,Base Hair,Alaphaj
-Hair Bang >>,Hair Bang >>,Hair Bang >>
-Hair Bang ><,Hair Bang ><,Hair Bang ><
-Hair Bang <<,Hair Bang <<,Hair Bang <<
-Hair Shine,Hair Shine,Hajfény
-Hair Branch >>,Hair Branch >>,Hajág >>
-Hair Branch <<,Hair Branch <<,Hajág <<
-Hair Framing >>,Hair Framing >>,Hajkeretezés >>
-Hair Framing <<,Hair Framing <<,Hajkeretezés <<
-Hair Framing,Hair Framing,Hajkeretezés
-Hair Highlight 1 >>,Hair Highlight 1 >>,Hajkiemelés 1 >>
-Hair Highlight 2 >>,Hair Highlight 2 >>,Hajkiemelés 2 >>
-Hair Highlight 3 >>,Hair Highlight 3 >>,Hajkiemelés 3 >>
-Hair Highlight 1 ><,Hair Highlight 1 ><,Hajkiemelés 1 ><
-Hair Highlight 2 ><,Hair Highlight 2 ><,Hajkiemelés 2 ><
-Hair Highlight 3 ><,Hair Highlight 3 ><,Hajkiemelés 3 ><
-Hair Highlight 4 ><,Hair Highlight 4 ><,Hajkiemelés 4 ><
-Hair Highlight 5 ><,Hair Highlight 5 ><,Hajkiemelés 5 ><
-Hair Highlight 6 ><,Hair Highlight 6 ><,Hajkiemelés 6 ><
-Hair Highlight 1 <<,Hair Highlight 1 <<,Hajkiemelés 1 <<
-Hair Highlight 2 <<,Hair Highlight 2 <<,Hajkiemelés 2 <<
-Hair Highlight 3 <<,Hair Highlight 3 <<,Hajkiemelés 3 <<
-Hair Side,Hair Side,Hajoldal
-Hair Ahoge,Hair Ahoge,Haj Ahoge
-Hair Rear,Hair Rear,Haj Hátsó
-Hair Pigtail >>,Hair Pigtail >>,Haj Pigtail >>
-Hair Pigtail <<,Hair Pigtail <<,Haj Pigtail <<
-Animal Ear,Animal Ear,Állati fül
-Antenna,Antenna,Antenna
-Fin,Fin,Uszony
-Gill,Gill,Kopoltyú
-Glasses,Glasses,Szemüveg
-Hairband A,Hairband A,Hajpánt A
-Hairband B,Hairband B,Hajpánt B
-Hairband C,Hairband C,Hajpánt C
-Hairband D,Hairband D,Hajpánt D
-Hair Clip >>,Hair Clip >>,Hajcsipesz >>
-Hair Clip <<,Hair Clip <<,Hajcsat <<
-Halo,Halo,Halo
-Hat,Hat,Kalap
-Ear Wing,Ear Wing,Fülszárny
-Horn,Horn,Kürt
-Horn Front ><,Horn Front ><,Kürt Elöl ><
-Horn Front,Horn Front,Horn Front
-Mecha,Mecha,Mecha
-Outfit Collar Inner,Outfit Collar Inner,Outfit gallér belső
-Outfit Inner,Outfit Inner,Outfit belső
-Outfit Outer,Outfit Outer,Outfit Outer
-Outfit Neckwear A,Outfit Neckwear A,Outfit Neckwear A
-Outfit Neckwear B,Outfit Neckwear B,Outfit Neckwear B
-Outfit Neckwear C,Outfit Neckwear C,Outfit Neckwear C
-Hair Side Branch >> A,Hair Side Branch >> A,Haj oldalág >> A
-Hair Side Branch >> B,Hair Side Branch >> B,Haj oldalág >> B
-Hair Side Branch >> C,Hair Side Branch >> C,Haj oldalág >> C
-Hair Side Branch << A,Hair Side Branch << A,Haj oldalág << A
-Hair Side Branch << B,Hair Side Branch << B,Haj oldalág << B
-Hair Side Branch << C,Hair Side Branch << C,Haj oldalág << C
+Key,en,hu,reviewed
+Brows,Brows,Szemöldök,False
+Ear,Ear,Fül,False
+Eye,Eye,Szem,False
+Base Hair,Base Hair,Alaphaj,False
+Hair Bang >>,Hair Bang >>,Hair Bang >>,False
+Hair Bang ><,Hair Bang ><,Hair Bang ><,False
+Hair Bang <<,Hair Bang <<,Hair Bang <<,False
+Hair Shine,Hair Shine,Hajfény,False
+Hair Branch >>,Hair Branch >>,Hajág >>,False
+Hair Branch <<,Hair Branch <<,Hajág <<,False
+Hair Framing >>,Hair Framing >>,Hajkeretezés >>,False
+Hair Framing <<,Hair Framing <<,Hajkeretezés <<,False
+Hair Framing,Hair Framing,Hajkeretezés,False
+Hair Highlight 1 >>,Hair Highlight 1 >>,Hajkiemelés 1 >>,False
+Hair Highlight 2 >>,Hair Highlight 2 >>,Hajkiemelés 2 >>,False
+Hair Highlight 3 >>,Hair Highlight 3 >>,Hajkiemelés 3 >>,False
+Hair Highlight 1 ><,Hair Highlight 1 ><,Hajkiemelés 1 ><,False
+Hair Highlight 2 ><,Hair Highlight 2 ><,Hajkiemelés 2 ><,False
+Hair Highlight 3 ><,Hair Highlight 3 ><,Hajkiemelés 3 ><,False
+Hair Highlight 4 ><,Hair Highlight 4 ><,Hajkiemelés 4 ><,False
+Hair Highlight 5 ><,Hair Highlight 5 ><,Hajkiemelés 5 ><,False
+Hair Highlight 6 ><,Hair Highlight 6 ><,Hajkiemelés 6 ><,False
+Hair Highlight 1 <<,Hair Highlight 1 <<,Hajkiemelés 1 <<,False
+Hair Highlight 2 <<,Hair Highlight 2 <<,Hajkiemelés 2 <<,False
+Hair Highlight 3 <<,Hair Highlight 3 <<,Hajkiemelés 3 <<,False
+Hair Side,Hair Side,Hajoldal,False
+Hair Ahoge,Hair Ahoge,Haj Ahoge,False
+Hair Rear,Hair Rear,Haj Hátsó,False
+Hair Pigtail >>,Hair Pigtail >>,Haj Pigtail >>,False
+Hair Pigtail <<,Hair Pigtail <<,Haj Pigtail <<,False
+Animal Ear,Animal Ear,Állati fül,False
+Antenna,Antenna,Antenna,False
+Fin,Fin,Uszony,False
+Gill,Gill,Kopoltyú,False
+Glasses,Glasses,Szemüveg,False
+Hairband A,Hairband A,Hajpánt A,False
+Hairband B,Hairband B,Hajpánt B,False
+Hairband C,Hairband C,Hajpánt C,False
+Hairband D,Hairband D,Hajpánt D,False
+Hair Clip >>,Hair Clip >>,Hajcsipesz >>,False
+Hair Clip <<,Hair Clip <<,Hajcsat <<,False
+Halo,Halo,Halo,False
+Hat,Hat,Kalap,False
+Ear Wing,Ear Wing,Fülszárny,False
+Horn,Horn,Kürt,False
+Horn Front ><,Horn Front ><,Kürt Elöl ><,False
+Horn Front,Horn Front,Horn Front,False
+Mecha,Mecha,Mecha,False
+Outfit Collar Inner,Outfit Collar Inner,Outfit gallér belső,False
+Outfit Inner,Outfit Inner,Outfit belső,False
+Outfit Outer,Outfit Outer,Outfit Outer,False
+Outfit Neckwear A,Outfit Neckwear A,Outfit Neckwear A,False
+Outfit Neckwear B,Outfit Neckwear B,Outfit Neckwear B,False
+Outfit Neckwear C,Outfit Neckwear C,Outfit Neckwear C,False
+Hair Side Branch >> A,Hair Side Branch >> A,Haj oldalág >> A,False
+Hair Side Branch >> B,Hair Side Branch >> B,Haj oldalág >> B,False
+Hair Side Branch >> C,Hair Side Branch >> C,Haj oldalág >> C,False
+Hair Side Branch << A,Hair Side Branch << A,Haj oldalág << A,False
+Hair Side Branch << B,Hair Side Branch << B,Haj oldalág << B,False
+Hair Side Branch << C,Hair Side Branch << C,Haj oldalág << C,False
