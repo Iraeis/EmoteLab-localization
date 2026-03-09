@@ -1,14 +1,14 @@
 Key,en,de,reviewed
 MainMenu.TabHeaderLable.Editor,Editor,Editor,False
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Sind Sie sicher, dass Sie den Charakter „{0}“ löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Der Charakter „{0}“ ist bereits vorhanden. Sind Sie sicher, dass Sie den Charakter „{0}“ überschreiben möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Bist du sicher, dass du den Charakter „{0}“ löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Der Charakter „{0}“ ist bereits vorhanden. Bist du sicher, dass du den Charakter „{0}“ überschreiben möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",False
 MainMenu.Confirm,Confirm,Bestätigen,False
 MainMenu.Cancel,0Cancel,0Abbrechen,False
-MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Bitte geben Sie einen Charakternamen ein:,False
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Bitte gib einen Charakternamen ein:,False
 MainMenu.Editor.Model,Models,Modelle,False
 MainMenu.Editor.Character,Character,Charakter,False
 MainMenu.Editor.Animation,Animation,Animation,False
-MainMenu.Editor.PartsSelection,Choose Parts,Wählen Sie Teile,False
+MainMenu.Editor.PartsSelection,Choose Parts,Teile auswählen,False
 MainMenu.Editor.PartsAdjustment,Adjustment,Einstellung,False
 MainMenu.Search,Search...,Suchen...,False
 MainMenu.Editor.SaveCharacter,Save Character,Charakter speichern,False
@@ -53,7 +53,7 @@ MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Dithering akti
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Exporteinstellungen zurücksetzen,False
 MainMenu.Editor.Export,Export Emote,Emote exportieren,False
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Lizenz vom Modellersteller bereitgestellt. Wird nur als Referenz angezeigt und gibt nicht die Ansichten oder Rechtsposition des EmoteLab-Entwicklers wieder.,False
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Lizenz nicht gefunden. Bestätigen Sie die erlaubte Nutzung mit dem Ersteller.,False
+LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Lizenz nicht gefunden. Bestätige die erlaubte Nutzung mit dem Ersteller.,False
 LicensePopup.Close,Close,Schließen,False
 MainMenu.Editor.OpenExportFolder,Open Export Folder,Exportordner öffnen,False
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Beispiel-Charaktere für integrierte Modelle laden,False
@@ -63,7 +63,7 @@ MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Charakter w
 MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Lizenzen Dritter,False
 MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Endbenutzer-Lizenzvereinbarung (EULA),False
 MainMenu.Info.Documentation,Documentation,Dokumentation,False
-MainMenu.Info.Discord,Join Our Discord,Treten Sie unserem Discord bei,False
+MainMenu.Info.Discord,Join Our Discord,Tritt unserem Discord bei,False
 MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",Diese Voreinstellung legt das richtige Format und die richtigen Abmessungen fest. Sehr lange Animationen können die Dateigrößenbeschränkungen der Plattform überschreiten und einige Plattformen schränken bestimmte Inhalte ein.,False
 MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Lokalen Modellordner öffnen,False
 MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Charakterordner öffnen,False
@@ -74,11 +74,11 @@ MainMenu.Editor.Player.Speed,Speed,Geschwindigkeit,False
 MainMenu.Settings.StaticImageSettings,Static Image Settings,Statische Bildeinstellungen,False
 MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Statische Bildeinstellungen zurücksetzen,False
 MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Abtastrate,False
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Mit diesem Schalter können Sie zwischen der internen und der benutzerdefinierten Textur wechseln,False
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Bearbeiten Sie die PNGs im Ordner „Custom Texture“. Speichern Sie mit Transparenz und ändern Sie die Bildgröße nicht,False
-MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","Nachdem Sie Ihre Änderungen gespeichert haben, klicken Sie auf diese Schaltfläche, um die Änderungen auf Ihr Modell anzuwenden.",False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Speichern Sie Ihren Charakter. Die Schaltfläche „Speichern“ befindet sich unterhalb der Charakterliste auf der linken Seite der Benutzeroberfläche.,False
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Bitte lesen Sie das Handbuch „Verwenden benutzerdefinierter Texturen“, bevor Sie diese Funktion verwenden.",False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Mit diesem Schalter kannst du zwischen der internen und der benutzerdefinierten Textur wechseln,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Bearbeite die PNGs im Ordner „Custom Texture“. Speichere mit Transparenz und ändere die Bildgröße nicht,False
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","Nachdem du deine Änderungen gespeichert hast, klicke auf diese Schaltfläche, um die Änderungen auf dein Modell anzuwenden.",False
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Speichere deinen Charakter. Die Schaltfläche „Speichern“ befindet sich unterhalb der Charakterliste auf der linken Seite der Oberfläche.,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Bitte lies das Handbuch „Verwenden benutzerdefinierter Texturen“, bevor du diese Funktion verwendest.",False
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Benutzerdefinierte Textur,False
 MainMenu.Editor.Texture.Step1,Step 1,Schritt 1,False
 MainMenu.Editor.Texture.Step2,Step 2,Schritt 2,False
