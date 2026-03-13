@@ -1,61 +1,61 @@
 Key,en,ja,reviewed
-Brows,Brows,眉毛,False
-Ear,Ear,耳,False
-Eye,Eye,目,False
-Base Hair,Base Hair,ベースヘア,False
-Hair Bang >>,Hair Bang >>,ヘアバング >>,False
-Hair Bang ><,Hair Bang ><,ヘアバング><,False
-Hair Bang <<,Hair Bang <<,ヘアバング <<,False
-Hair Shine,Hair Shine,髪の輝き,False
-Hair Branch >>,Hair Branch >>,毛枝 >>,False
-Hair Branch <<,Hair Branch <<,ヘアブランチ <<,False
-Hair Framing >>,Hair Framing >>,ヘアフレーミング >>,False
-Hair Framing <<,Hair Framing <<,ヘアフレーミング <<,False
-Hair Framing,Hair Framing,ヘアフレーミング,False
-Hair Highlight 1 >>,Hair Highlight 1 >>,ヘアハイライト1 >>,False
-Hair Highlight 2 >>,Hair Highlight 2 >>,ヘアハイライト2 >>,False
-Hair Highlight 3 >>,Hair Highlight 3 >>,ヘアハイライト3 >>,False
-Hair Highlight 1 ><,Hair Highlight 1 ><,ヘアハイライト 1 ><,False
-Hair Highlight 2 ><,Hair Highlight 2 ><,ヘアハイライト 2 ><,False
-Hair Highlight 3 ><,Hair Highlight 3 ><,ヘアハイライト 3 ><,False
-Hair Highlight 4 ><,Hair Highlight 4 ><,ヘアハイライト 4 ><,False
-Hair Highlight 5 ><,Hair Highlight 5 ><,ヘアハイライト 5 ><,False
-Hair Highlight 6 ><,Hair Highlight 6 ><,ヘアハイライト 6 ><,False
-Hair Highlight 1 <<,Hair Highlight 1 <<,ヘアハイライト 1 <<,False
-Hair Highlight 2 <<,Hair Highlight 2 <<,ヘアハイライト 2 <<,False
-Hair Highlight 3 <<,Hair Highlight 3 <<,ヘアハイライト 3 <<,False
-Hair Side,Hair Side,髪側,False
-Hair Ahoge,Hair Ahoge,アホ毛,False
-Hair Rear,Hair Rear,後ろ髪,False
-Hair Pigtail >>,Hair Pigtail >>,おさげ髪 >>,False
-Hair Pigtail <<,Hair Pigtail <<,ヘアピグテール <<,False
-Animal Ear,Animal Ear,獣の耳,False
-Antenna,Antenna,アンテナ,False
-Fin,Fin,フィン,False
-Gill,Gill,ギル,False
-Glasses,Glasses,眼鏡,False
-Hairband A,Hairband A,ヘアバンドA,False
-Hairband B,Hairband B,ヘアバンドB,False
-Hairband C,Hairband C,ヘアバンドC,False
-Hairband D,Hairband D,ヘアバンドD,False
-Hair Clip >>,Hair Clip >>,ヘアクリップ >>,False
-Hair Clip <<,Hair Clip <<,ヘアクリップ <<,False
-Halo,Halo,ハロー,False
-Hat,Hat,帽子,False
-Ear Wing,Ear Wing,イヤーウィング,False
-Horn,Horn,ホルン,False
-Horn Front ><,Horn Front ><,ホーンフロント ><,False
-Horn Front,Horn Front,ホーンフロント,False
-Mecha,Mecha,メカ,False
-Outfit Collar Inner,Outfit Collar Inner,衣装襟インナー,False
-Outfit Inner,Outfit Inner,衣装インナー,False
-Outfit Outer,Outfit Outer,衣装アウター,False
-Outfit Neckwear A,Outfit Neckwear A,衣装ネックウェアA,False
-Outfit Neckwear B,Outfit Neckwear B,衣装ネックウェアB,False
-Outfit Neckwear C,Outfit Neckwear C,衣装ネックウェアC,False
-Hair Side Branch >> A,Hair Side Branch >> A,ヘアサイドブランチ>>A,False
-Hair Side Branch >> B,Hair Side Branch >> B,ヘアサイドブランチ>>B,False
-Hair Side Branch >> C,Hair Side Branch >> C,ヘアサイドブランチ>>C,False
-Hair Side Branch << A,Hair Side Branch << A,ヘアサイドブランチ << A,False
-Hair Side Branch << B,Hair Side Branch << B,ヘアサイドブランチ << B,False
-Hair Side Branch << C,Hair Side Branch << C,ヘアサイドブランチ << C,False
+Brows,Brows,眉,True
+Ear,Ear,耳,True
+Eye,Eye,目,True
+Base Hair,Base Hair,髪ベース,True
+Hair Bang >>,Hair Bang >>,前髪 >>,True
+Hair Bang ><,Hair Bang ><,前髪 中央,True
+Hair Bang <<,Hair Bang <<,前髪 <<,True
+Hair Shine,Hair Shine,髪ツヤ,True
+Hair Branch >>,Hair Branch >>,髪ハネ >>,True
+Hair Branch <<,Hair Branch <<,髪ハネ <<,True
+Hair Framing >>,Hair Framing >>,顔まわり髪 >>,True
+Hair Framing <<,Hair Framing <<,顔まわり髪 <<,True
+Hair Framing,Hair Framing,顔まわり髪,True
+Hair Highlight 1 >>,Hair Highlight 1 >>,髪ハイライト1 >>,True
+Hair Highlight 2 >>,Hair Highlight 2 >>,髪ハイライト2 >>,True
+Hair Highlight 3 >>,Hair Highlight 3 >>,髪ハイライト3 >>,True
+Hair Highlight 1 ><,Hair Highlight 1 ><,髪ハイライト1 中央,True
+Hair Highlight 2 ><,Hair Highlight 2 ><,髪ハイライト2 中央,True
+Hair Highlight 3 ><,Hair Highlight 3 ><,髪ハイライト3 中央,True
+Hair Highlight 4 ><,Hair Highlight 4 ><,髪ハイライト4 中央,True
+Hair Highlight 5 ><,Hair Highlight 5 ><,髪ハイライト5 中央,True
+Hair Highlight 6 ><,Hair Highlight 6 ><,髪ハイライト6 中央,True
+Hair Highlight 1 <<,Hair Highlight 1 <<,髪ハイライト1 <<,True
+Hair Highlight 2 <<,Hair Highlight 2 <<,髪ハイライト2 <<,True
+Hair Highlight 3 <<,Hair Highlight 3 <<,髪ハイライト3 <<,True
+Hair Side,Hair Side,横髪,True
+Hair Ahoge,Hair Ahoge,アホ毛,True
+Hair Rear,Hair Rear,後ろ髪,True
+Hair Pigtail >>,Hair Pigtail >>,おさげ >>,True
+Hair Pigtail <<,Hair Pigtail <<,おさげ <<,True
+Animal Ear,Animal Ear,ケモ耳,True
+Antenna,Antenna,アンテナ,True
+Fin,Fin,ヒレ,True
+Gill,Gill,エラ,True
+Glasses,Glasses,メガネ,True
+Hairband A,Hairband A,ヘアバンドA,True
+Hairband B,Hairband B,ヘアバンドB,True
+Hairband C,Hairband C,ヘアバンドC,True
+Hairband D,Hairband D,ヘアバンドD,True
+Hair Clip >>,Hair Clip >>,ヘアクリップ >>,True
+Hair Clip <<,Hair Clip <<,ヘアクリップ <<,True
+Halo,Halo,天使の輪,True
+Hat,Hat,帽子,True
+Ear Wing,Ear Wing,耳羽,True
+Horn,Horn,角,True
+Horn Front ><,Horn Front ><,角 前中央,True
+Horn Front,Horn Front,角 前,True
+Mecha,Mecha,メカ,True
+Outfit Collar Inner,Outfit Collar Inner,襟 内側,True
+Outfit Inner,Outfit Inner,服 内側,True
+Outfit Outer,Outfit Outer,服 外側,True
+Outfit Neckwear A,Outfit Neckwear A,首の衣装A,True
+Outfit Neckwear B,Outfit Neckwear B,首の衣装B,True
+Outfit Neckwear C,Outfit Neckwear C,首の衣装C,True
+Hair Side Branch >> A,Hair Side Branch >> A,横髪 ハネ >> A,True
+Hair Side Branch >> B,Hair Side Branch >> B,横髪 ハネ >> B,True
+Hair Side Branch >> C,Hair Side Branch >> C,横髪 ハネ >> C,True
+Hair Side Branch << A,Hair Side Branch << A,横髪 ハネ << A,True
+Hair Side Branch << B,Hair Side Branch << B,横髪 ハネ << B,True
+Hair Side Branch << C,Hair Side Branch << C,横髪 ハネ << C,True
