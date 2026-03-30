@@ -1,0 +1,95 @@
+Key,en,zh-Hans,reviewed
+MainMenu.TabHeaderLable.Editor,Editor,编辑器,True
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",您确定要删除角色“{0}”吗？此操作不可撤销。,True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",角色“{0}”已存在。您确定要覆盖角色“{0}”吗？此操作不可撤销。,True
+MainMenu.Confirm,Confirm,确认,True
+MainMenu.Cancel,Cancel,取消,True
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,请输入角色名：,True
+MainMenu.Editor.Model,Models,模型,True
+MainMenu.Editor.Character,Character,角色,True
+MainMenu.Editor.Animation,Animation,动画,True
+MainMenu.Editor.PartsSelection,Choose Parts,部件选择,True
+MainMenu.Editor.PartsAdjustment,Adjustment,部件调整,True
+MainMenu.Search,Search...,搜索……,True
+MainMenu.Editor.SaveCharacter,Save Character,保存角色,True
+MainMenu.Editor.Unload,Clear Character,重置角色,True
+MainMenu.Editor.DeleteCharacter,Delete Character,删除角色,True
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,使用自定义贴图,True
+MainMenu.Editor.ReloadTextures,Reload Textures,重新加载贴图,True
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,打开自定义贴图文件夹,True
+MainMenu.Editor.Color,Color,颜色,True
+MainMenu.Editor.TintColor,TintColor,浅色,True
+MainMenu.Editor.TintBlackColor,TintBlackColor,深色,True
+MainMenu.Editor.LICENSE,LICENSE,使用条款,True
+MainMenu.Editor.AssetTypeAA,Default Assets,内置模型,True
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,第三方模型,True
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,角色名不得为空。,True
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,角色名不得超过{0}个字符。,True
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",角色名不得包含特殊字符“{0}”。,True
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",“{0}”是系统保留关键词，不能作为角色名。,True
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,角色名不能以点结尾。,True
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,角色名不能只包含空格。,True
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,关闭当前模型,True
+MainMenu.Settings.GeneralSettings,General Settings,一般设置,True
+MainMenu.Settings.GeneralSettings.Language,Language,语言,True
+MainMenu.Settings.ViewportSettings,Viewport Settings,视窗设置,True
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,模型缩放速度,True
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,模型旋转速度,True
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,模型尺寸,True
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,位置水平偏移,True
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,位置垂直偏移,True
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,重置视窗设置,True
+MainMenu.Settings.ExportSettings,Animation Export Settings,动画输出设置,True
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,保存位置,True
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,输出预置,True
+MainMenu.Settings.ExportSettings.Encoder,Encoder,编码器,True
+MainMenu.Settings.ExportSettings.Width,Width,宽度,True
+MainMenu.Settings.ExportSettings.Height,Height,高度,True
+MainMenu.Settings.ExportSettings.FPS,FPS,帧率,True
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,限制最大帧数,True
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,最大帧数,True
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,透明阈值,True
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,使用颜色抖动,True
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,重置输出设置,True
+MainMenu.Editor.Export,Export Emote,导出动画,True
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,许可信息由模型作者提供。仅作展示，不代表 EmoteLab 开发者立场。,True
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",该第三方模型的作者未随模型提供许可协议或使用说明。在将该模型用于公开、商业或专业场景前，建议您自行与模型作者确认其允许的使用范围。,True
+LicensePopup.Close,Close,关闭,True
+MainMenu.Editor.OpenExportFolder,Open Export Folder,打开输出文件夹,True
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,加载内置模型角色示例,True
+MainMenu.Settings.ModelSettings,Model Settings,模型设置,True
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,保存角色数据,True
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,加载角色,True
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,第三方授权许可,True
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),最终用户许可协议（EULA）,True
+MainMenu.Info.Documentation,Documentation,帮助文档,True
+MainMenu.Info.Discord,Join Our Discord,加入我们的Discord,True
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",此预设会设置正确的格式和尺寸。过长的动画可能会超出平台文件大小限制，某些内容可能不被特定平台允许。,True
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,打开本地模型文件夹,True
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,打开角色文件夹,True
+MainMenu.Info.Log,Open Log Folder,打开程序运行日志,True
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,使用全局颜色表,True
+MainMenu.Editor.ExportStatic,Export Static Image,导出静态图片,True
+MainMenu.Editor.Player.Speed,Speed,播放速度,True
+MainMenu.Settings.StaticImageSettings,Static Image Settings,静态图片输出设置,True
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,重置静态图片输出设置,True
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,取样频率,True
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,这个选项允许您在内置贴图和自定义贴图间切换。,True
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,编辑自定义贴图文件夹中的PNG图像，保留透明度保存且不要改变尺寸。,True
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",编辑完成后，点击此按钮应用修改。,True
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,保存您的角色。保存按钮在左侧角色列表下方。,True
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,请在使用前完整阅读手册使用自定义贴图章节。,True
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,自定义贴图,True
+MainMenu.Editor.Texture.Step1,Step 1,第一步,True
+MainMenu.Editor.Texture.Step2,Step 2,第二步,True
+MainMenu.Editor.Texture.Step3,Step 3,第三步,True
+MainMenu.Editor.Texture.Step4,Step 4,第四步,True
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,修复选中图集部件边缘,True
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,重置选中图集,True
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,贴图工具,True
+MainMenu.Editor.Texture.SelectAll,Select All,全选,True
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,反选,True
+MainMenu.Editor.Texture.AtlasList,Atlas List,图集列表,True
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,此操作将把所选图集页面重置为内置版本。未保存的修改将丢失且无法恢复。是否继续？,True
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,色板算法,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,操作会修改并覆盖选中的 PNG 图集文件以修复白边。此操作无法撤销，是否继续？,True

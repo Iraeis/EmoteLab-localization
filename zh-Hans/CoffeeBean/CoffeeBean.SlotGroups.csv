@@ -1,0 +1,218 @@
+Key,en,zh-Hans,reviewed
+Hair Ahoge,Hair Ahoge,头发呆毛,True
+Hair Ahoge Outline,Hair Ahoge Outline,头发呆毛轮廓,True
+Animal Ear >>,Animal Ear >>,兽耳 >>,True
+Animal Ear >> Fur,Animal Ear >> Fur,兽耳 >> 毛,True
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,兽耳 >> 毛轮廓,True
+Animal Ear >> Outline,Animal Ear >> Outline,兽耳 >> 轮廓,True
+Animal Ear <<,Animal Ear <<,兽耳 <<,True
+Animal Ear << Fur,Animal Ear << Fur,兽耳 << 毛,True
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,兽耳 << 毛轮廓,True
+Animal Ear << Outline,Animal Ear << Outline,兽耳 << 轮廓,True
+Antenna >>,Antenna >>,触角 >>,True
+Antenna >> Outline,Antenna >> Outline,触角 >> 轮廓,True
+Antenna <<,Antenna <<,触角 <<,True
+Antenna << Outline,Antenna << Outline,触角 << 轮廓,True
+Hair Rear,Hair Rear,头发 后侧,True
+Hair Rear Outline,Hair Rear Outline,头发 后侧 轮廓,True
+Beverage Cup,Beverage Cup,饮料杯,True
+Beverage Liquid,Beverage Liquid,饮料杯 液体,True
+Beverage Liquid 2,Beverage Liquid 2,饮料杯 液体 2,True
+Bill,Bill,钞票,True
+Blanket Inner,Blanket Inner,被子 里侧,True
+Blanket Outter,Blanket Outter,被子 外侧,True
+Face Blush,Face Blush,脸红,True
+Brow >>,Brow >>,眉毛 >>,True
+Brow <<,Brow <<,眉毛 <<,True
+Chopstick,Chopstick,筷子,True
+Crowbar,Crowbar,撬棍,True
+Cup,Cup,咖啡杯,True
+Cup Steam,Cup Steam,咖啡杯 蒸汽,True
+Door/Wall,Door/Wall,门/墙,True
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,呆眼 瞳孔 >>,True
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,呆眼 瞳孔  <<,True
+Eyebag,Eyebag,眼袋,True
+Eye Iris Dark >>,Eye Iris Dark >>,眼睛 虹膜深色 >>,True
+Eye Iris Dark <<,Eye Iris Dark <<,眼睛 虹膜深色 <<,True
+Eye Dollar,Eye Dollar,眼睛 钱,True
+Eye Heart,Eye Heart,眼睛 爱心,True
+Eye Highlight,Eye Highlight,眼睛 高光,True
+Eyelashes,Eyelashes,眼睛 睫毛,True
+Eye Iris Light >>,Eye Iris Light >>,眼睛 虹膜浅色 >>,True
+Eye Iris Light <<,Eye Iris Light <<,眼睛 虹膜浅色 <<,True
+Eye(Dum) Outline,Eye(Dum) Outline,呆眼 轮廓,True
+Eye Sparkling,Eye Sparkling,眼睛 星星,True
+Eye Spiral,Eye Spiral,眼睛 圈圈,True
+Eye White,Eye White,眼睛 白色部分,True
+Face Shadow,Face Shadow,脸 阴影,True
+Fin >>,Fin >>,鳍 >>,True
+Fin >> Outline,Fin >> Outline,鳍 >> 轮廓,True
+Fin <<,Fin <<,鳍 <<,True
+Fin << Outline,Fin << Outline,鳍 << 轮廓,True
+Hair Framing >>,Hair Framing >>,头发 脸颊 >>,True
+Hair Framing >> Outline,Hair Framing >> Outline,头发 脸颊 >> 轮廓,True
+Hair Framing <<,Hair Framing <<,头发 脸颊 <<,True
+Hair Framing << Outline,Hair Framing << Outline,头发 脸颊 << 轮廓,True
+Gill,Gill,腮,True
+Gill Outline,Gill Outline,腮 轮廓,True
+Glasses,Glasses,眼镜,True
+Hairband A,Hairband A,发带 A,True
+Hairband A Outline,Hairband A Outline,发带 A 轮廓,True
+Hairband B,Hairband B,发带 B,True
+Hairband B Outline,Hairband B Outline,发带 B 轮廓,True
+Hairband C,Hairband C,发带 C,True
+Hairband C Outline,Hairband C Outline,发带 C 轮廓,True
+Hairband D,Hairband D,发带 D,True
+Hairband D Outline,Hairband D Outline,发带 D 轮廓,True
+Hair Bang >>,Hair Bang >>,头发 刘海 >>,True
+Hair Bang >> Outline,Hair Bang >> Outline,头发 刘海 >> 轮廓,True
+Hair Bang ><,Hair Bang ><,头发 刘海 ><,True
+Hair Bang >< Outline,Hair Bang >< Outline,头发 刘海 >< 轮廓,True
+Hair Bang <<,Hair Bang <<,头发 刘海 <<,True
+Hair Bang << Outline,Hair Bang << Outline,头发 刘海 << 轮廓,True
+Hair Clip >>,Hair Clip >>,发夹 >>,True
+Hair Clip >> Outline,Hair Clip >> Outline,发夹 >> 轮廓,True
+Hair Clip <<,Hair Clip <<,发夹 <<,True
+Hair Clip << Outline,Hair Clip << Outline,发夹 << 轮廓,True
+Hair Highlight 1 >>,Hair Highlight 1 >>,挑染 1 >> ,True
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,挑染 1 >> 轮廓,True
+Hair Highlight 2 >>,Hair Highlight 2 >>,挑染 2 >> ,True
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,挑染 2 >> 轮廓,True
+Hair Highlight 3 >>,Hair Highlight 3 >>,挑染 3 >> ,True
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,挑染 3 >> 轮廓,True
+Hair Highlight 1 ><,Hair Highlight 1 ><,挑染 1 >< ,True
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,挑染 1 >< 轮廓,True
+Hair Highlight 2 ><,Hair Highlight 2 ><,挑染 2 >< ,True
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,挑染 2 >< 轮廓,True
+Hair Highlight 3 ><,Hair Highlight 3 ><,挑染 3 >< ,True
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,挑染 3 >< 轮廓,True
+Hair Highlight 4 ><,Hair Highlight 4 ><,挑染 4 >< ,True
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,挑染 4 >< 轮廓,True
+Hair Highlight 5 ><,Hair Highlight 5 ><,挑染 5 >< ,True
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,挑染 5 >< 轮廓,True
+Hair Highlight 6 ><,Hair Highlight 6 ><,挑染 6 >< ,True
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,挑染 6 >< 轮廓,True
+Hair Highlight 1 <<,Hair Highlight 1 <<,挑染 1 << ,True
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,挑染 1 << 轮廓,True
+Hair Highlight 2 <<,Hair Highlight 2 <<,挑染 2 << ,True
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,挑染 2 << 轮廓,True
+Hair Highlight 3 <<,Hair Highlight 3 <<,挑染 3 << ,True
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,挑染 3 << 轮廓,True
+Hairline Outline,Hairline Outline,发际线 轮廓,True
+Hair Shine,Hair Shine,头发 高光,True
+Hair Shine Outline,Hair Shine Outline,头发 高光 轮廓,True
+Halo,Halo,光环,True
+Halo Outline,Halo Outline,光环 轮廓,True
+Hat,Hat,帽子,True
+Hat Outline,Hat Outline,帽子 轮廓,True
+Hat Secondary,Hat Secondary,帽子 次要,True
+Hat Secondary Outline,Hat Secondary Outline,帽子 次要 轮廓,True
+Hammer,Hammer,锤子,True
+Ear Wing >>,Ear Wing >>,翅膀耳朵 >>,True
+Ear Wing >> Outline,Ear Wing >> Outline,翅膀耳朵 >> 轮廓,True
+Ear Wing <<,Ear Wing <<,翅膀耳朵 <<,True
+Ear Wing << Outline,Ear Wing << Outline,翅膀耳朵 << 轮廓,True
+Heart,Heart,爱心,True
+Horn >>,Horn >>,角 >>,True
+Horn >> Outline,Horn >> Outline,角 >> 轮廓,True
+Horn <<,Horn <<,角 <<,True
+Horn << Outline,Horn << Outline,角 <<轮廓,True
+Horn ><,Horn ><,角 ><,True
+Horn >< Outline,Horn >< Outline,角 >< 轮廓,True
+Jail Grill,Jail Grill,监狱栅栏,True
+Keyboard,Keyboard,键盘,True
+Kitchen Knife,Kitchen Knife,厨房刀,True
+Laptop,Laptop,电脑,True
+Laptop Light,Laptop Light,电脑 屏幕光,True
+Leg >>,Leg >>,腿 >>,True
+Leg <<,Leg <<,腿 <<,True
+Lightstick Handle,Lightstick Handle,荧光棒 把手,True
+Light Stick >>,Light Stick >>,荧光棒 >>,True
+Light Stick <<,Light Stick <<,荧光棒 <<,True
+Mecha,Mecha,机械,True
+Mecha >>,Mecha >>,机械 >>,True
+Mecha >> Outline,Mecha >> Outline,机械 >> 轮廓,True
+Mecha Outline,Mecha Outline,机械 轮廓,True
+Mecha <<,Mecha <<,机械 <<,True
+Mecha << Outline,Mecha << Outline,机械 << 轮廓,True
+Mouse,Mouse,鼠标,True
+Mouth/Tongue,Mouth/Tongue,嘴/舌头,True
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,嘴/舌头 阴影,True
+Notepad,Notepad,记事本,True
+Outfit Collar,Outfit Collar,服装 领子,True
+Outfit Collar Outline,Outfit Collar Outline,服装 领子 轮廓,True
+Outfit Inner,Outfit Inner,服装 里侧,True
+Outfit Inner Outline,Outfit Inner Outline,服装 里侧 轮廓,True
+Outfit Neckwear A,Outfit Neckwear A,服装 颈部装饰 A,True
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,服装 颈部装饰 A 轮廓,True
+Outfit Neckwear B,Outfit Neckwear B,服装 颈部装饰 B,True
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,服装 颈部装饰 B 轮廓,True
+Outfit Neckwear C,Outfit Neckwear C,服装 颈部装饰 C,True
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,服装 颈部装饰 C 轮廓,True
+Outfit Outer,Outfit Outer,服装 外侧,True
+Outfit Outer Outline,Outfit Outer Outline,服装 外侧 轮廓,True
+Pencil,Pencil,铅笔,True
+Phone,Phone,手机,True
+Phone Light,Phone Light,手机 屏幕光,True
+Hair Pigtail >>,Hair Pigtail >>,头发 马尾 >>,True
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,头发 马尾 >> 轮廓,True
+Hair Pigtail <<,Hair Pigtail <<,头发 马尾 <<,True
+Hair Pigtail << Outline,Hair Pigtail << Outline,头发 马尾 << 轮廓,True
+Rose,Rose,玫瑰,True
+Round Sign,Round Sign,圆形标牌,True
+Round Sign Text,Round Sign Text,圆形标牌 文字,True
+Hair Side,Hair Side,头发 侧面,True
+Hair Side Outline,Hair Side Outline,头发 侧面 轮廓,True
+Skin,Skin,肤色,True
+Skin Outline,Skin Outline,肤色 轮廓,True
+Square Sign,Square Sign,方形标牌,True
+Square Sign Text,Square Sign Text,方形标牌 文字,True
+Steering Wheel,Steering Wheel,方向盘,True
+Gas Bottle,Gas Bottle,压缩气瓶,True
+Pat Hand,Pat Hand,摸头手,True
+Sticker Alert,Sticker Alert,表情贴纸 通知/提示,True
+Sticker Alert Effect,Sticker Alert Effect,表情贴纸 通知/提示 特效,True
+Sticker Alert Outline,Sticker Alert Outline,表情贴纸 通知/提示 轮廓,True
+Sticker Angry,Sticker Angry,表情贴纸 生气,True
+Sticker Exclamation Mark,Sticker Exclamation Mark,表情贴纸 感叹号,True
+Sticker Ghost,Sticker Ghost,表情贴纸 幽灵,True
+Sticker Heart,Sticker Heart,表情贴纸 爱心,True
+Sticker Laugh,Sticker Laugh,表情贴纸 笑,True
+Sticker Question Mark,Sticker Question Mark,表情贴纸 问号,True
+Sticker Sleep,Sticker Sleep,表情贴纸 睡觉,True
+Sticker Star,Sticker Star,表情贴纸 星星,True
+Sticker Steam,Sticker Steam,表情贴纸 气,True
+Sticker Surprise,Sticker Surprise,表情贴纸 惊吓,True
+Sticker Sweat,Sticker Sweat,表情贴纸 汗,True
+Sticker Sweat (Large),Sticker Sweat (Large),表情贴纸 汗（大）,True
+Sticker Volume,Sticker Volume,表情贴纸 音量,True
+Sticky Note,Sticky Note,表情贴纸 便签,True
+Sticky Note Text,Sticky Note Text,表情贴纸 便签 文字,True
+Eye Tear,Eye Tear,眼睛 眼泪,True
+Utensil,Utensil,餐具,True
+Outfit Collar String,Outfit Collar String,服装 领子 抽绳,True
+Bell,Bell,铃铛,True
+Confetti 1,Confetti 1,彩纸 1,True
+Confetti 2,Confetti 2,彩纸 2,True
+Confetti 3,Confetti 3,彩纸 3,True
+Microphone,Microphone,麦克风,True
+Gleam,Gleam,光晕,True
+Video Camera,Video Camera,摄像机,True
+Point Hand,Point Hand,指人手,True
+Bowl,Bowl,碗,True
+Cake,Cake,蛋糕,True
+Candle Fire,Candle Fire,蜡烛 火焰,True
+Drawing Tablet,Drawing Tablet,画板,True
+Love Letter,Love Letter,情书,True
+Popper,Popper,彩纸筒,True
+Stylus,Stylus,手写笔,True
+Tablet,Tablet,画板,True
+Musical Note 1,Musical Note 1,音乐 音符 1,True
+Musical Note 2,Musical Note 2,音乐 音符 2,True
+Phone Screen,Phone Screen,手机 屏幕,True
+Tail,Tail,尾巴,True
+Tail Outline,Tail Outline,尾巴 轮廓,True
+Wing >>,Wing >>,翅膀 >>,True
+Wing >> Outline,Wing >> Outline,翅膀 >> 轮廓,True
+Wing <<,Wing <<,翅膀 <<,True
+Wing << Outline,Wing << Outline,翅膀 << 轮廓,True
