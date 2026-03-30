@@ -27,3 +27,9 @@ Horn << Length,Horn << Length,Cuerno << Longitud,False
 Horn >< Length,Horn >< Length,Cuerno >< Longitud,False
 Horn Position,Horn Position,Posición de la bocina,False
 Ear Wing Position,Ear Wing Position,Posición del ala de la oreja,False
+Wing Size,Wing Size,Tamaño del ala,False
+Wing Position,Wing Position,Posición del ala,False
+Wing Angle,Wing Angle,Ángulo del ala,False
+Tail Size,Tail Size,Tamaño de la cola,False
+Tail Flip,Tail Flip,Voltear la cola,False
+Tail Angle,Tail Angle,Ángulo de cola,False

@@ -27,3 +27,9 @@ Horn << Length,Horn << Length,혼 << 길이,False
 Horn >< Length,Horn >< Length,혼 >< 길이,False
 Horn Position,Horn Position,경적 위치,False
 Ear Wing Position,Ear Wing Position,귀 날개 위치,False
+Wing Size,Wing Size,날개 크기,False
+Wing Position,Wing Position,날개 위치,False
+Wing Angle,Wing Angle,날개 각도,False
+Tail Size,Tail Size,꼬리 크기,False
+Tail Flip,Tail Flip,테일 플립,False
+Tail Angle,Tail Angle,꼬리 각도,False

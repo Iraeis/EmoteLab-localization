@@ -92,3 +92,4 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,선택 전환,False
 MainMenu.Editor.Texture.AtlasList,Atlas List,아틀라스 목록,False
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,그러면 선택한 아틀라스 페이지가 내장 버전으로 재설정됩니다. 저장되지 않은 편집 내용은 손실되며 복구할 수 없습니다. 계속하다?,False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,팔레트 알고리즘,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,선택한 텍스처 파일을 덮어쓰게 되며 취소할 수 없습니다. 계속하다?,False

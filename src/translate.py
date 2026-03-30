@@ -58,21 +58,20 @@ def lang_dir_walk(lang_root, desc_str, func):
             if not file.endswith('.csv'):
                 continue
             file_path = os.path.join(root, file)
-            try:
-                func(file_path)
-            except Exception as e:
-                print(f"Error {desc_str} {file}: {e}")
+            func(file_path)
 
 def lang_dirs(root):
     dirs = set(os.listdir(root))
     langs = GoogleTranslator().get_supported_languages(as_dict=True).values()
 
-    return dirs.intersection(langs).union({'zh-Hant'})
+    return dirs.intersection(langs).union({'zh-Hant', 'zh-Hans'})
 
 def proc(root):
     for dirstr in lang_dirs(root):
         if dirstr == 'zh-Hant':
             target_code = 'zh-TW'
+        elif dirstr == 'zh-Hans':
+            target_code = 'zh-CN'
         else:
             target_code = dirstr
         translator = GoogleTranslator(source=SOURCE_COL, target=target_code)

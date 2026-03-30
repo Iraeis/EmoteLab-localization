@@ -27,3 +27,9 @@ Horn << Length,Horn << Length,Рог << Длина,False
 Horn >< Length,Horn >< Length,Рог >< Длина,False
 Horn Position,Horn Position,Положение рожка,False
 Ear Wing Position,Ear Wing Position,Положение крыльев уха,False
+Wing Size,Wing Size,Размер крыла,False
+Wing Position,Wing Position,Положение крыла,False
+Wing Angle,Wing Angle,Угол крыла,False
+Tail Size,Tail Size,Размер хвоста,False
+Tail Flip,Tail Flip,Переворот хвостом,False
+Tail Angle,Tail Angle,Угол хвоста,False

@@ -59,3 +59,5 @@ Hair Side Branch >> C,Hair Side Branch >> C,Haarseitenzweig >> C,True
 Hair Side Branch << A,Hair Side Branch << A,Haarseitenzweig << A,True
 Hair Side Branch << B,Hair Side Branch << B,Haarseitenzweig << B,True
 Hair Side Branch << C,Hair Side Branch << C,Haarseitenzweig << C,True
+Tail,Tail,Schwanz,False
+Wing,Wing,Flügel,False

@@ -77,3 +77,24 @@ Work Angry,Work Angry,作業（怒り）,True
 Work Nap,Work Nap,作業（居眠り）,True
 Work Normal,Work Normal,作業（通常）,True
 Work Tired,Work Tired,作業（疲れ）,True
+Bell,Bell,ベル,False
+Cake,Cake,ケーキ,False
+Caught in 4K (Phone),Caught in 4K (Phone),4K で撮影 (携帯電話),False
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),4K（ビデオカメラ）で撮影,False
+Celebration,Celebration,お祝い,False
+Head Nod,Head Nod,うなずく,False
+Head Shake,Head Shake,首を振る,False
+Hypnosis,Hypnosis,催眠術,False
+Laugh (Point),Laugh (Point),笑い（ポイント）,False
+Love Letter,Love Letter,ラブレター,False
+Need Food,Need Food,食べ物が必要です,False
+PNGTuber Idle,PNGTuber Idle,PNGTuberアイドル,False
+PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber アイドル 2,False
+PNGTuber Talk,PNGTuber Talk,PNGTuber トーク,False
+PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber トーク 2,False
+PNGTuber Yap,PNGTuber Yap,PNGチューバー ヤップ,False
+Popcat Frame,Popcat Frame,ポップキャットフレーム,False
+Popcat Smooth,Popcat Smooth,ポップキャットスムーズ,False
+Sing,Sing,歌う,False
+Tablet,Tablet,錠剤,False
+Tail Wag,Tail Wag,テールワグ,False

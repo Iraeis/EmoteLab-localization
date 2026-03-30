@@ -92,3 +92,4 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Kiválasztás váltása
 MainMenu.Editor.Texture.AtlasList,Atlas List,Atlasz lista,False
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,"Ezzel visszaállítja a kiválasztott atlaszoldalakat a beépített verziókra. A nem mentett szerkesztések elvesznek, és nem állíthatók vissza. Folytatja?",False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Paletta algoritmus,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,"Ez felülírja a kiválasztott textúrafájlokat, és nem vonható vissza. Folytatja?",False

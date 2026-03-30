@@ -27,3 +27,9 @@ Horn << Length,Horn << Length,喇叭 << 長度,False
 Horn >< Length,Horn >< Length,喇叭 >< 長度,False
 Horn Position,Horn Position,喇叭位置,False
 Ear Wing Position,Ear Wing Position,耳翼位置,False
+Wing Size,Wing Size,機翼尺寸,False
+Wing Position,Wing Position,機翼位置,False
+Wing Angle,Wing Angle,翼角,False
+Tail Size,Tail Size,尾部尺寸,False
+Tail Flip,Tail Flip,尾部翻轉,False
+Tail Angle,Tail Angle,尾角,False

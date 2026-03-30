@@ -191,3 +191,28 @@ Sticky Note Text,Sticky Note Text,便箋文本,False
 Eye Tear,Eye Tear,眼睛流淚,False
 Utensil,Utensil,用具,False
 Outfit Collar String,Outfit Collar String,服飾領帶,False
+Bell,Bell,鐘,False
+Confetti 1,Confetti 1,五彩紙屑 1,False
+Confetti 2,Confetti 2,五彩紙屑 2,False
+Confetti 3,Confetti 3,五彩紙屑 3,False
+Microphone,Microphone,麥克風,False
+Gleam,Gleam,微光,False
+Video Camera,Video Camera,攝影機,False
+Point Hand,Point Hand,點手,False
+Bowl,Bowl,碗,False
+Cake,Cake,蛋糕,False
+Candle Fire,Candle Fire,蠟燭火,False
+Drawing Tablet,Drawing Tablet,繪圖板,False
+Love Letter,Love Letter,情書,False
+Popper,Popper,波普爾,False
+Stylus,Stylus,手寫筆,False
+Tablet,Tablet,藥片,False
+Musical Note 1,Musical Note 1,音符1,False
+Musical Note 2,Musical Note 2,音符2,False
+Phone Screen,Phone Screen,手機螢幕,False
+Tail,Tail,尾巴,False
+Tail Outline,Tail Outline,尾部輪廓,False
+Wing >>,Wing >>,翼>>,False
+Wing >> Outline,Wing >> Outline,翼>>概要,False
+Wing <<,Wing <<,翼 <<,False
+Wing << Outline,Wing << Outline,翼 << 大綱,False

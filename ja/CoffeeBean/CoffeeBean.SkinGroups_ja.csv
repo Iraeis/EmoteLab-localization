@@ -59,3 +59,5 @@ Hair Side Branch >> C,Hair Side Branch >> C,横髪 ハネ >> C,True
 Hair Side Branch << A,Hair Side Branch << A,横髪 ハネ << A,True
 Hair Side Branch << B,Hair Side Branch << B,横髪 ハネ << B,True
 Hair Side Branch << C,Hair Side Branch << C,横髪 ハネ << C,True
+Tail,Tail,しっぽ,False
+Wing,Wing,翼,False

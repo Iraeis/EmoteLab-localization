@@ -27,3 +27,9 @@ Horn << Length,Horn << Length,Kürt << Hossz,False
 Horn >< Length,Horn >< Length,Kürt >< Hossz,False
 Horn Position,Horn Position,Kürt pozíció,False
 Ear Wing Position,Ear Wing Position,Fülszárny helyzete,False
+Wing Size,Wing Size,Szárny mérete,False
+Wing Position,Wing Position,Szárny pozíció,False
+Wing Angle,Wing Angle,Szárnyszög,False
+Tail Size,Tail Size,Farok mérete,False
+Tail Flip,Tail Flip,Tail Flip,False
+Tail Angle,Tail Angle,Farokszög,False

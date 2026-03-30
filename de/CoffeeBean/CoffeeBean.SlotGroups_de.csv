@@ -191,3 +191,28 @@ Sticky Note Text,Sticky Note Text,Haftnotiz Text,True
 Eye Tear,Eye Tear,Augentränen,True
 Utensil,Utensil,Besteck,True
 Outfit Collar String,Outfit Collar String,Outfit Kragenschnur,True
+Bell,Bell,Glocke,False
+Confetti 1,Confetti 1,Konfetti 1,False
+Confetti 2,Confetti 2,Konfetti 2,False
+Confetti 3,Confetti 3,Konfetti 3,False
+Microphone,Microphone,Mikrofon,False
+Gleam,Gleam,Glänzen,False
+Video Camera,Video Camera,Videokamera,False
+Point Hand,Point Hand,Zeigen Sie mit der Hand,False
+Bowl,Bowl,Schüssel,False
+Cake,Cake,Kuchen,False
+Candle Fire,Candle Fire,Kerzenfeuer,False
+Drawing Tablet,Drawing Tablet,Zeichentablett,False
+Love Letter,Love Letter,Liebesbrief,False
+Popper,Popper,Popper,False
+Stylus,Stylus,Stift,False
+Tablet,Tablet,Tablette,False
+Musical Note 1,Musical Note 1,Musiknote 1,False
+Musical Note 2,Musical Note 2,Musiknote 2,False
+Phone Screen,Phone Screen,Telefonbildschirm,False
+Tail,Tail,Schwanz,False
+Tail Outline,Tail Outline,Schwanzumriss,False
+Wing >>,Wing >>,Flügel >>,False
+Wing >> Outline,Wing >> Outline,Flügel >> Umriss,False
+Wing <<,Wing <<,Flügel <<,False
+Wing << Outline,Wing << Outline,Flügel << Umriss,False

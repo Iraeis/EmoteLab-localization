@@ -92,3 +92,4 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,切換選擇,False
 MainMenu.Editor.Texture.AtlasList,Atlas List,圖集列表,False
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,這會將選定的圖集頁面重設為內建版本。任何未儲存的編輯都將遺失且無法復原。繼續？,False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,調色板演算法,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,這將覆蓋選定的紋理檔案並且無法撤消。繼續？,False

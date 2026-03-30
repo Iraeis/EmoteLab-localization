@@ -92,3 +92,4 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Basculer la sélection,
 MainMenu.Editor.Texture.AtlasList,Atlas List,Liste de l'Atlas,False
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Cela réinitialisera les pages de l'atlas sélectionnées aux versions intégrées. Toutes les modifications non enregistrées seront perdues et ne pourront pas être récupérées. Continuer?,False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Algorithme de palette,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Cela écrasera les fichiers de texture sélectionnés et ne pourra pas être annulé. Continuer?,False

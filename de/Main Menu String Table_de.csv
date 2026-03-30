@@ -77,7 +77,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Abtastrate,True
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Mit diesem Schalter kannst du zwischen der internen und der benutzerdefinierten Textur wechseln,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Bearbeite die PNGs im Ordner „Custom Texture“. Speichere mit Transparenz und ändere die Bildgröße nicht,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","Nachdem du deine Änderungen gespeichert hast, klicke auf diesen Knopf, um die Änderungen auf dein Modell anzuwenden.",True
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Speichere deinen Charakter. Der "Speichern"-Knopf befindet sich unterhalb der Charakterliste auf der linken Seite der Oberfläche.,True
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,"Speichere deinen Charakter. Der ""Speichern""-Knopf befindet sich unterhalb der Charakterliste auf der linken Seite der Oberfläche.",True
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Bitte lies das Handbuch „Verwenden benutzerdefinierter Texturen“, bevor du diese Funktion verwendest.",True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Benutzerdefinierte Textur,True
 MainMenu.Editor.Texture.Step1,Step 1,Schritt 1,True
@@ -92,3 +92,4 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Auswahl umschalten,True
 MainMenu.Editor.Texture.AtlasList,Atlas List,Atlas-Liste,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Dadurch werden die ausgewählten Atlasseiten auf die integrierten Versionen zurückgesetzt. Alle nicht gespeicherten Änderungen gehen verloren und können nicht wiederhergestellt werden. Weitermachen?,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Palettenalgorithmus,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Dadurch werden die ausgewählten Texturdateien überschrieben und können nicht rückgängig gemacht werden. Weitermachen?,False

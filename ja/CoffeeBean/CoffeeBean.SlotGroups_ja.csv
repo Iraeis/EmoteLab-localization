@@ -191,3 +191,28 @@ Sticky Note Text,Sticky Note Text,ふせんの文字,True
 Eye Tear,Eye Tear,涙,True
 Utensil,Utensil,食器,True
 Outfit Collar String,Outfit Collar String,襟ひも,True
+Bell,Bell,ベル,False
+Confetti 1,Confetti 1,紙吹雪1,False
+Confetti 2,Confetti 2,紙吹雪2,False
+Confetti 3,Confetti 3,紙吹雪3,False
+Microphone,Microphone,マイクロフォン,False
+Gleam,Gleam,光る,False
+Video Camera,Video Camera,ビデオカメラ,False
+Point Hand,Point Hand,ポイントハンド,False
+Bowl,Bowl,ボウル,False
+Cake,Cake,ケーキ,False
+Candle Fire,Candle Fire,キャンドルファイア,False
+Drawing Tablet,Drawing Tablet,お絵描きタブレット,False
+Love Letter,Love Letter,ラブレター,False
+Popper,Popper,ポッパー,False
+Stylus,Stylus,スタイラス,False
+Tablet,Tablet,錠剤,False
+Musical Note 1,Musical Note 1,音符1,False
+Musical Note 2,Musical Note 2,音符2,False
+Phone Screen,Phone Screen,電話画面,False
+Tail,Tail,しっぽ,False
+Tail Outline,Tail Outline,尾部の輪郭,False
+Wing >>,Wing >>,ウィング >>,False
+Wing >> Outline,Wing >> Outline,ウイング >> 概要,False
+Wing <<,Wing <<,ウィング <<,False
+Wing << Outline,Wing << Outline,ウイング << 概要,False

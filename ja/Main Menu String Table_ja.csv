@@ -1,7 +1,7 @@
 Key,en,ja,reviewed
 MainMenu.TabHeaderLable.Editor,Editor,エディター,True
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","キャラクター「{0}」を削除しますか？この操作は元に戻せません。",True
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","キャラクター「{0}」はすでに存在します。上書きしますか？この操作は元に戻せません。",True
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",キャラクター「{0}」を削除しますか？この操作は元に戻せません。,True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",キャラクター「{0}」はすでに存在します。上書きしますか？この操作は元に戻せません。,True
 MainMenu.Confirm,Confirm,確認,True
 MainMenu.Cancel,Cancel,キャンセル,True
 MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,キャラクター名を入力してください,True
@@ -25,8 +25,8 @@ MainMenu.Editor.AssetTypeAA,Default Assets,標準アセット,True
 MainMenu.Editor.AssetTypeSA,Third-Party Assets,外部アセット,True
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,名前は空にできません,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,名前は{0}文字以内で入力してください,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","名前に「{0}」は使用できません",True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","「{0}」は予約済みキーワードのため使用できません",True
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",名前に「{0}」は使用できません,True
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",「{0}」は予約済みキーワードのため使用できません,True
 MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,名前をドットで終えることはできません,True
 MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,名前を空白のみにはできません,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,モデルの読み込みを解除,True
@@ -92,3 +92,4 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,選択を切り替え,T
 MainMenu.Editor.Texture.AtlasList,Atlas List,アトラス一覧,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,選択したアトラスページを初期状態にリセットします。未保存の編集は失われ、復元できません。続行しますか？,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,パレットアルゴリズム,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,これにより、選択したテクスチャ ファイルが上書きされ、元に戻すことはできません。続く？,False
