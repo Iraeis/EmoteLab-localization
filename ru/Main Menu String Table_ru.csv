@@ -107,3 +107,39 @@ Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</
 
 Хотите внести свой вклад? Присоединяйтесь к нам в <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Больше не показывать это,False
+MainMenu.Editor.AssetTypeWS,Workshop,Мастерская,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Публикация модели в мастерской,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Публикация персонажа в Мастерской,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Режим загрузки,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Создать новый элемент,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Обновить существующий элемент,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Элемент для обновления,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Заголовок,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Описание,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Видимость,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Общественный,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Только друзья,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Частный,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Нет в списке,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Изменить примечание,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Обязательные элементы (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Изображение для предварительного просмотра (путь PNG/JPG),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Публиковать,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Отмена,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(загрузка...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(нет опубликованных материалов),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(Пар не готов),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Ожидание метаданных Steam...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Выберите опубликованный элемент Мастерской для обновления.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Необходимо указать название.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Исправьте изображение предварительного просмотра перед публикацией.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Создание предмета Мастерской...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Загрузка предмета Мастерской...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Файл изображения предварительного просмотра не найден.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Изображение для предварительного просмотра должно быть в формате PNG, JPG или GIF.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Размер изображения для предварительного просмотра должен составлять 1 МБ или меньше (сейчас {0} КБ).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Не удалось прочитать изображение предварительного просмотра: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Изображение предварительного просмотра не удалось декодировать.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},Требуемый PublishedFileId недействителен: {0}.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam не инициализируется.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Загружен предмет мастерской: {0},False

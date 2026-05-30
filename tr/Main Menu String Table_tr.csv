@@ -107,3 +107,39 @@ Dili Ayarlar'dan değiştirebilirsiniz.
 
 Katkıda bulunmak ister misiniz? <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>'ta bize katılın.",True
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Bunu bir daha gösterme,True
+MainMenu.Editor.AssetTypeWS,Workshop,Atölye,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Modeli Atölyede Yayınla,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Karakteri Atölyeye Yayınla,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Yükleme modu,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Yeni öğe oluştur,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Mevcut öğeyi güncelle,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Güncellenecek öğe,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Başlık,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Tanım,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Görünürlük,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Halk,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Yalnızca Arkadaşlar,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Özel,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Liste dışı,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Notu değiştir,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Gerekli Öğeler (Yayınlanan Dosya Kimlikleri),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Önizleme resmi (PNG/JPG yolu),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Yayınla,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,İptal etmek,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(yükleniyor...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(yayınlanmış öğe yok),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(Buhar hazır değil),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Steam meta verileri bekleniyor...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Güncellemek için yayınlanmış bir Atölye öğesini seçin.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Başlık gerekli.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Yayınlamadan önce önizleme görüntüsünü düzeltin.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Atölye öğesi oluşturuluyor...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Atölye öğesi yükleniyor...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Önizleme resim dosyası bulunamadı.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Önizleme resmi PNG, JPG veya GIF olmalıdır.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Önizleme resmi 1 MB veya daha küçük olmalıdır (şu anda {0} KB).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Önizleme resmi okunamadı: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Önizleme görüntüsünün kodu çözülemedi.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},Gerekli PublishedFileId geçersiz: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam başlatılmadı.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Atölye öğesi yüklendi: {0},False
