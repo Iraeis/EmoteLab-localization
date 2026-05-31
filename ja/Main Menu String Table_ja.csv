@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,色,True
 MainMenu.Editor.TintColor,TintColor,色合い,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,黒の色合い,True
 MainMenu.Editor.LICENSE,LICENSE,ライセンス,True
-MainMenu.Editor.AssetTypeAA,Default Assets,標準アセット,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,外部アセット,True
+MainMenu.Editor.AssetTypeAA,Built-in,標準アセット,False
+MainMenu.Editor.AssetTypeSA,Third-Party,外部アセット,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,名前は空にできません,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,名前は{0}文字以内で入力してください,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",名前に「{0}」は使用できません,True
@@ -97,15 +97,16 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","一部の言語はコミュニティによって翻訳されているか、機械翻訳によって翻訳されているため、品質が異なる場合があります。
+Want to contribute? Join us on {1}.","一部の言語はコミュニティによって翻訳されているか、機械翻訳によって翻訳されているため、品質が異なる場合があります。
 
 言語は設定で変更できます。
 
-<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub のコミュニティ貢献者</link>をご覧ください。
+{0} をご覧ください。
 
-貢献したいですか？ <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link> に参加してください。",False
+貢献したいですか？ {1} に参加してください。",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub のコミュニティ貢献者,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,これを二度と表示しないでください,False
 MainMenu.Editor.AssetTypeWS,Workshop,ワークショップ,False
 MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,モデルをワークショップに公開する,False
@@ -143,3 +144,10 @@ MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image co
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},必須の PublishedFileId が無効です: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steamが初期化されていません。,False
 MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},ワークショップ アイテムがアップロードされました: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,パブリッシュステージングファイルが変更されました。このダイアログを閉じて、再度公開します。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,ワークショップに必要なアイテムを確認しています...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,ワークショップに必要なアイテムを確認できませんでした。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,ワークショップ アイテム {0} が見つからないか、アクセスできません。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,ワークショップ アイテム {0} はこのアプリに属していません。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},ビューポートのキャプチャに失敗しました: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,ビューポートからキャプチャされたプレビュー。,False

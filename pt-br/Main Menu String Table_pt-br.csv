@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,Cor,True
 MainMenu.Editor.TintColor,TintColor,CorDaMatiz,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,CorDaMatizPreto,True
 MainMenu.Editor.LICENSE,LICENSE,LICENÇA,True
-MainMenu.Editor.AssetTypeAA,Default Assets,Assets Padrão,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Assets de Terceiros,True
+MainMenu.Editor.AssetTypeAA,Built-in,Assets Padrão,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Assets de Terceiros,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,O nome não pode estar vazio.,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,O nome não pode exceder {0} caracteres.,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","O nome não pode conter o caractere ""{0}"".",True
@@ -97,15 +97,16 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Alguns idiomas são traduzidos pela nossa comunidade ou assistidos por tradução automática, portanto a qualidade pode variar.
+Want to contribute? Join us on {1}.","Alguns idiomas são traduzidos pela nossa comunidade ou assistidos por tradução automática, portanto a qualidade pode variar.
 
 Você pode alterar o idioma em Configurações.
 
-Veja nossos <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">colaboradores da comunidade no GitHub</link>.
+Veja nossos {0}.
 
-Quer contribuir? Junte-se a nós no <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+Quer contribuir? Junte-se a nós no {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,colaboradores da comunidade no GitHub,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Não mostre isso de novo,False
 MainMenu.Editor.AssetTypeWS,Workshop,Oficina,False
 MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Publicar modelo no workshop,False
@@ -143,3 +144,10 @@ MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image co
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},Required PublishedFileId is invalid: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,O Steam não foi inicializado.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Item da oficina enviado: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,Os arquivos de teste de publicação foram modificados. Feche esta caixa de diálogo e publique novamente.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Verificando itens obrigatórios da Oficina...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Falha ao verificar os itens obrigatórios da Oficina.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,O item da oficina {0} não foi encontrado ou não está acessível.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,O item da oficina {0} não pertence a este aplicativo.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Falha na captura da janela de visualização: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Visualização capturada da viewport.,False

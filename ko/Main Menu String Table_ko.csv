@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,색상,True
 MainMenu.Editor.TintColor,TintColor,바탕 색상,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,선화 색상,True
 MainMenu.Editor.LICENSE,LICENSE,라이선스,True
-MainMenu.Editor.AssetTypeAA,Default Assets,기본 에셋,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,외부 에셋,True
+MainMenu.Editor.AssetTypeAA,Built-in,기본 에셋,False
+MainMenu.Editor.AssetTypeSA,Third-Party,외부 에셋,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,이름은 비워둘 수 없습니다.,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,이름은 {0}자를 초과할 수 없습니다.,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","이름에는 ""{0}"" 문자를 포함할 수 없습니다.",True
@@ -97,15 +97,16 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","일부 언어는 커뮤니티에서 번역되거나 기계 번역의 도움을 받기 때문에 품질이 다를 수 있습니다.
+Want to contribute? Join us on {1}.","일부 언어는 커뮤니티에서 번역되거나 기계 번역의 도움을 받기 때문에 품질이 다를 수 있습니다.
 
 설정에서 언어를 변경할 수 있습니다.
 
-<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub의 커뮤니티 기여자</link>를 확인하세요.
+{0}를 확인하세요.
 
-기여하고 싶나요? <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>에 참여하세요.",False
+기여하고 싶나요? {1}에 참여하세요.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub의 커뮤니티 기고자,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,다시 표시하지 않음,False
 MainMenu.Editor.AssetTypeWS,Workshop,작업장,False
 MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,모델을 워크샵에 게시,False
@@ -143,3 +144,10 @@ MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image co
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},필수 PublishedFileId가 잘못되었습니다: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,스팀이 초기화되지 않았습니다.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},업로드된 창작마당 항목: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,게시 준비 파일이 수정되었습니다. 이 대화 상자를 닫고 다시 게시하세요.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,필수 창작마당 항목을 확인하는 중...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,필수 창작마당 아이템을 확인하지 못했습니다.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,창작마당 항목 {0}을(를) 찾을 수 없거나 액세스할 수 없습니다.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,창작마당 항목 {0}은(는) 이 앱에 속하지 않습니다.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},뷰포트 캡처 실패: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,뷰포트에서 캡처된 미리보기입니다.,False

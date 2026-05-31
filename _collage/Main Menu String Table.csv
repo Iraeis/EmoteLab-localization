@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,颜色,顏色,Farbe,Color,Couleur,Szín,色,색상,�
 MainMenu.Editor.TintColor,TintColor,浅色,淺色,Tönungsfarbe,TintedeColor,TeinteCouleur,TintColor,色合い,바탕 색상,ОттенокЦвет,CorDaMatiz,TintColor,TintaColore,สีย้อม,Ana Renk,TintColor
 MainMenu.Editor.TintBlackColor,TintBlackColor,深色,深色,Dunkle Tönungsfarbe,TinteColorNegro,TeinteNoireCouleur,TintBlackColor,黒の色合い,선화 색상,ОттенокЧерныйЦвет,CorDaMatizPreto,TintBlackColor,TintaNeroColore,สีย้อมดำ,Alt Renk,NyansSvartFärg
 MainMenu.Editor.LICENSE,LICENSE,使用条款,使用條款,LIZENZ,LICENCIA,LICENCE,ENGEDÉLY,ライセンス,라이선스,ЛИЦЕНЗИЯ,LICENÇA,ЛІЦЕНЗІЯ,LICENZA,ใบอนุญาตซอฟต์แวร์ (LICENSE),LİSANS,LICENS
-MainMenu.Editor.AssetTypeAA,Default Assets,内置模型,內建模型,Standard-Assets,Texturas Predeterminadas,Actifs par Défaut,Alapértelmezett eszközök,標準アセット,기본 에셋,Активы по умолчанию,Assets Padrão,Активи за замовчуванням,Asset predefiniti,Default Assets,Standart İçerikler,Standardtillgångar
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,第三方模型,第三方模型,Drittanbieter-Assets,Texturas de Terceros,Assets Applications Tierces,Harmadik féltől származó eszközök,外部アセット,외부 에셋,Сторонние активы,Assets de Terceiros,Активи третіх сторін,Beni di terzi,Asset ของบุคคลที่สาม,Üçüncü Parti İçerikler,Tredjepartstillgångar
+MainMenu.Editor.AssetTypeAA,Built-in,内置,內建模型,Standard-Assets,Texturas Predeterminadas,Actifs par Défaut,Alapértelmezett eszközök,標準アセット,기본 에셋,Активы по умолчанию,Assets Padrão,Активи за замовчуванням,Asset predefiniti,Default Assets,Standart İçerikler,Standardtillgångar
+MainMenu.Editor.AssetTypeSA,Third-Party,第三方,第三方模型,Drittanbieter-Assets,Texturas de Terceros,Assets Applications Tierces,Harmadik féltől származó eszközök,外部アセット,외부 에셋,Сторонние активы,Assets de Terceiros,Активи третіх сторін,Beni di terzi,Asset ของบุคคลที่สาม,Üçüncü Parti İçerikler,Tredjepartstillgångar
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,角色名不得为空。,角色名不得為空。,Der Name darf nicht leer sein.,El nombre no puede estar vacío.,Le nom ne peut pas être vide.,A név nem lehet üres.,名前は空にできません,이름은 비워둘 수 없습니다.,Имя не может быть пустым.,O nome não pode estar vazio.,Назва не може бути пустою.,Il nome non può essere vuoto.,ชื่อต้องไม่ว่างเปล่า,İsim boş bırakılamaz.,Namnet får inte vara tomt.
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,角色名不得超过{0}个字符。,角色名不得超過{0}個字元。,Der Name darf nicht länger als {0} Zeichen sein.,El nombre no puede exceder los {0} caracteres.,Le nom ne peut pas dépasser {0} caractères.,A név nem haladhatja meg a {0} karaktert.,名前は{0}文字以内で入力してください,이름은 {0}자를 초과할 수 없습니다.,Имя не может превышать {0} символов.,O nome não pode exceder {0} caracteres.,Назва не може перевищувати {0} символів.,Il nome non può contenere più di {0} caratteri.,ชื่อต้องไม่เกิน {0} ตัวอักษร,"İsim, {0} harfi geçemez.",Namnet får inte överstiga {0} tecken.
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",角色名不得包含特殊字符“{0}”。,角色名不得包含特殊字元“{0}”。,Der Name darf das Zeichen „{0}“ nicht enthalten.,"El nombre no puede contener el carácter ""{0}"".","Le nom ne peut pas contenir le caractère ""{0}"".","A név nem tartalmazhatja a ""{0}"" karaktert.",名前に「{0}」は使用できません,"이름에는 ""{0}"" 문자를 포함할 수 없습니다.",Имя не может содержать символ «{0}».,"O nome não pode conter o caractere ""{0}"".","Назва не може містити символ ""{0}"".","Il nome non può contenere il carattere ""{0}"".","ชื่อต้องไม่มีอักขระ ""{0}""","İsimde ""{0}“ sembolü olamaz.","Namnet får inte innehålla tecknet ""{0}""."
@@ -97,99 +97,100 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","部分语言由我们的社区翻译或由机器翻译协助完成，因此质量可能有所不同。
+Want to contribute? Join us on {1}.","部分语言由我们的社区翻译或由机器翻译协助完成，因此质量可能有所不同。
 
 您可在设置中更改语言。
 
-请在<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub</link>上查看我们的社区贡献者。
+请在{0}上查看我们的社区贡献者。
 
-想要参与？欢迎通过<link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>加入我们。","部分語言由社群翻譯或由機器翻譯協助完成，因此品質可能有所不同。
+想要参与？欢迎通过{1}加入我们。","部分語言由社群翻譯或由機器翻譯協助完成，因此品質可能有所不同。
 
 您可在設定中變更語言。
 
-請在<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub</link>上查看我們的社群貢獻者。
+請在{0}上查看我們的社群貢獻者。
 
-想要參與？歡迎透過<link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>加入我們。","Einige Sprachen werden von unserer Community übersetzt oder durch maschinelle Übersetzung unterstützt, daher kann die Qualität variieren.
+想要參與？歡迎透過{1}加入我們。","Einige Sprachen werden von unserer Community übersetzt oder durch maschinelle Übersetzung unterstützt, daher kann die Qualität variieren.
 
 Sie können die Sprache in den Einstellungen ändern.
 
-Sehen Sie sich unsere <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">Community-Mitwirkenden auf GitHub</link> an.
+Sehen Sie sich unsere {0} an.
 
-Möchten Sie einen Beitrag leisten? Begleiten Sie uns auf <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Algunos idiomas son traducidos por nuestra comunidad o asistidos por traducción automática, por lo que la calidad puede variar.
+Möchten Sie einen Beitrag leisten? Begleiten Sie uns auf {1}.","Algunos idiomas son traducidos por nuestra comunidad o asistidos por traducción automática, por lo que la calidad puede variar.
 
 Puedes cambiar el idioma en Configuración.
 
-Vea nuestros <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">colaboradores de la comunidad en GitHub</link>.
+Vea nuestros {0}.
 
-¿Quieres contribuir? Únase a nosotros en <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Certaines langues sont traduites par notre communauté ou assistées par la traduction automatique, la qualité peut donc varier.
+¿Quieres contribuir? Únase a nosotros en {1}.","Certaines langues sont traduites par notre communauté ou assistées par la traduction automatique, la qualité peut donc varier.
 
 Vous pouvez changer la langue dans les Paramètres.
 
-Consultez nos <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">contributeurs de la communauté sur GitHub</link>.
+Consultez nos {0}.
 
-Vous voulez contribuer ? Rejoignez-nous sur <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Egyes nyelveket közösségünk fordít, vagy gépi fordítás segíti elő, így a minőség változhat.
+Vous voulez contribuer ? Rejoignez-nous sur {1}.","Egyes nyelveket közösségünk fordít, vagy gépi fordítás segíti elő, így a minőség változhat.
 
 A nyelvet a Beállításokban módosíthatja.
 
-Tekintse meg <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">közösségi közreműködőinket a GitHubon</link>.
+Tekintse meg {0}.
 
-Szeretnél hozzájárulni? Csatlakozz hozzánk a <link=""https://discord.gg/Xt8dAV8YF7"">Discordon</link>.","一部の言語はコミュニティによって翻訳されているか、機械翻訳によって翻訳されているため、品質が異なる場合があります。
+Szeretnél hozzájárulni? Csatlakozz hozzánk a {1}.","一部の言語はコミュニティによって翻訳されているか、機械翻訳によって翻訳されているため、品質が異なる場合があります。
 
 言語は設定で変更できます。
 
-<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub のコミュニティ貢献者</link>をご覧ください。
+{0} をご覧ください。
 
-貢献したいですか？ <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link> に参加してください。","일부 언어는 커뮤니티에서 번역되거나 기계 번역의 도움을 받기 때문에 품질이 다를 수 있습니다.
+貢献したいですか？ {1} に参加してください。","일부 언어는 커뮤니티에서 번역되거나 기계 번역의 도움을 받기 때문에 품질이 다를 수 있습니다.
 
 설정에서 언어를 변경할 수 있습니다.
 
-<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub의 커뮤니티 기여자</link>를 확인하세요.
+{0}를 확인하세요.
 
-기여하고 싶나요? <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>에 참여하세요.","Некоторые языки переводятся нашим сообществом или с помощью машинного перевода, поэтому качество может отличаться.
+기여하고 싶나요? {1}에 참여하세요.","Некоторые языки переводятся нашим сообществом или с помощью машинного перевода, поэтому качество может отличаться.
 
 Вы можете изменить язык в настройках.
 
-См. наших <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">участников сообщества на GitHub</link>.
+См. наших {0}.
 
-Хотите внести свой вклад? Присоединяйтесь к нам в <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Alguns idiomas são traduzidos pela nossa comunidade ou assistidos por tradução automática, portanto a qualidade pode variar.
+Хотите внести свой вклад? Присоединяйтесь к нам в {1}.","Alguns idiomas são traduzidos pela nossa comunidade ou assistidos por tradução automática, portanto a qualidade pode variar.
 
 Você pode alterar o idioma em Configurações.
 
-Veja nossos <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">colaboradores da comunidade no GitHub</link>.
+Veja nossos {0}.
 
-Quer contribuir? Junte-se a nós no <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Деякі мови перекладаються нашою спільнотою або за допомогою машинного перекладу, тому якість може відрізнятися.
+Quer contribuir? Junte-se a nós no {1}.","Деякі мови перекладаються нашою спільнотою або за допомогою машинного перекладу, тому якість може відрізнятися.
 
 Ви можете змінити мову в налаштуваннях.
 
-Дивіться <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">учасників спільноти на GitHub</link>.
+Дивіться {0}.
 
-Хочете зробити внесок? Приєднуйтесь до нас на <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Alcune lingue sono tradotte dalla nostra community o assistite dalla traduzione automatica, quindi la qualità può variare.
+Хочете зробити внесок? Приєднуйтесь до нас на {1}.","Alcune lingue sono tradotte dalla nostra community o assistite dalla traduzione automatica, quindi la qualità può variare.
 
 Puoi cambiare la lingua in Impostazioni.
 
-Vedi i nostri <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">collaboratori della community su GitHub</link>.
+Vedi i nostri {0}.
 
-Vuoi contribuire? Unisciti a noi su <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","บางภาษาได้รับการแปลโดยชุมชนของเราหรือได้รับความช่วยเหลือจากการแปลด้วยคอมพิวเตอร์ ดังนั้นคุณภาพอาจแตกต่างกันไป
+Vuoi contribuire? Unisciti a noi su {1}.","บางภาษาได้รับการแปลโดยชุมชนของเราหรือได้รับความช่วยเหลือจากการแปลด้วยคอมพิวเตอร์ ดังนั้นคุณภาพอาจแตกต่างกันไป
 
 คุณสามารถเปลี่ยนภาษาได้ในการตั้งค่า
 
-ดู <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">ผู้ร่วมให้ข้อมูลในชุมชนของเราบน GitHub</link>
+ดู {0}
 
-ต้องการที่จะมีส่วนร่วม? เข้าร่วมกับเราบน <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>","Bazı diller topluluğumuz tarafından çevrilmekte veya makine çevirisiyle desteklenmektedir, dolayısıyla kalite farklılık gösterebilir.
+ต้องการที่จะมีส่วนร่วม? เข้าร่วมกับเราบน {1}.","Bazı diller topluluğumuz tarafından çevrilmekte veya makine çevirisiyle desteklenmektedir, dolayısıyla kalite farklılık gösterebilir.
 
 Dili Ayarlar'dan değiştirebilirsiniz.
 
-<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub'daki topluluğa katkıda bulunanlarımıza</link> bakın.
+{0} bakın.
 
-Katkıda bulunmak ister misiniz? <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>'ta bize katılın.","Vissa språk översätts av vår community eller assisteras av maskinöversättning, så kvaliteten kan variera.
+Katkıda bulunmak ister misiniz? {1}.","Vissa språk översätts av vår community eller assisteras av maskinöversättning, så kvaliteten kan variera.
 
 Du kan ändra språket i Inställningar.
 
-Se våra <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">bidragsgivare på GitHub</link>.
+Se våra {0}.
 
-Vill du bidra? Gå med oss ​​på <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>."
+Vill du bidra? Gå med oss ​​på {1}."
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub 上的社区贡献者,GitHub 上的社群貢獻者,Community-Mitwirkende auf GitHub,contribuyentes de la comunidad en GitHub,contributeurs de la communauté sur GitHub,közösségi közreműködők a GitHubon,GitHub のコミュニティ貢献者,GitHub의 커뮤니티 기고자,участники сообщества на GitHub,colaboradores da comunidade no GitHub,учасників спільноти на GitHub,contributori della community su GitHub,ผู้ร่วมให้ข้อมูลในชุมชนบน GitHub,GitHub'a katkıda bulunan topluluk üyeleri,community-bidragsgivare på GitHub
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,不再显示,不再顯示,Zeige das nicht noch einmal,No vuelvas a mostrar esto,Ne plus montrer ça,Ne mutasd ezt újra,これを二度と表示しないでください,다시 표시하지 않음,Больше не показывать это,Não mostre isso de novo,Не показувати це знову,Non mostrarlo più,อย่าแสดงสิ่งนี้อีก,Bunu bir daha gösterme,Visa inte detta igen
 MainMenu.Editor.AssetTypeWS,Workshop,创意工坊,工作坊,Werkstatt,Taller,Atelier,Műhely,ワークショップ,작업장,Мастерская,Oficina,Майстерня,Officina,การประชุมเชิงปฏิบัติการ,Atölye,Verkstad
 MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,将模型发布至创意工坊,將模型發佈到Workshop,Modell im Workshop veröffentlichen,Publicar modelo en taller,Publier le modèle dans l'atelier,Modell közzététele a műhelyben,モデルをワークショップに公開する,모델을 워크샵에 게시,Публикация модели в мастерской,Publicar modelo no workshop,Опублікувати модель у Workshop,Pubblica il modello nel workshop,เผยแพร่โมเดลไปยังเวิร์กช็อป,Modeli Atölyede Yayınla,Publicera Model to Workshop
@@ -227,3 +228,10 @@ MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image co
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},所需的 PublishedFileId 无效：{0},所需的 PublishedFileId 無效：{0},Erforderliche PublishedFileId ist ungültig: {0},El PublishedFileId requerido no es válido: {0},L'ID de fichier publié requis n'est pas valide : {0},A kötelező PublishedFileId érvénytelen: {0},必須の PublishedFileId が無効です: {0},필수 PublishedFileId가 잘못되었습니다: {0},Требуемый PublishedFileId недействителен: {0}.,Required PublishedFileId is invalid: {0},Необхідний PublishedFileId недійсний: {0},PublishedFileId obbligatorio non è valido: {0},PublishedFileId ที่จำเป็นไม่ถูกต้อง: {0},Gerekli PublishedFileId geçersiz: {0},Obligatoriskt PublishedFileId är ogiltigt: {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam 未初始化。,Steam 未初始化。,Steam ist nicht initialisiert.,Steam no está inicializado.,Steam n'est pas initialisé.,A Steam nincs inicializálva.,Steamが初期化されていません。,스팀이 초기화되지 않았습니다.,Steam не инициализируется.,O Steam não foi inicializado.,Steam не ініціалізовано.,Steam non è inizializzato.,Steam ไม่ได้ถูกเตรียมใช้งาน,Steam başlatılmadı.,Steam initieras inte.
 MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},上传的创意工坊物品：{0},上傳的創意工坊專案：{0},Workshop-Artikel hochgeladen: {0},Artículo del taller subido: {0},Élément d'atelier téléchargé : {0},Műhelyelem feltöltve: {0},ワークショップ アイテムがアップロードされました: {0},업로드된 창작마당 항목: {0},Загружен предмет мастерской: {0},Item da oficina enviado: {0},Завантажено предмет майстерні: {0},Articolo del workshop caricato: {0},อัปโหลดรายการเวิร์กชอป: {0},Atölye öğesi yüklendi: {0},Verkstadsobjekt laddat upp: {0}
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,发布暂存文件被修改。关闭此对话框并再次发布。,發布暫存文件已修改。關閉此對話框並再次發布。,Die Veröffentlichungs-Stagingdateien wurden geändert. Schließen Sie dieses Dialogfeld und veröffentlichen Sie es erneut.,Se modificaron los archivos provisionales de publicación. Cierre este cuadro de diálogo y publíquelo nuevamente.,Les fichiers de préparation de publication ont été modifiés. Fermez cette boîte de dialogue et publiez à nouveau.,"A közzétételi staging fájlok módosultak. Zárja be ezt a párbeszédpanelt, és tegye közzé újra.",パブリッシュステージングファイルが変更されました。このダイアログを閉じて、再度公開します。,게시 준비 파일이 수정되었습니다. 이 대화 상자를 닫고 다시 게시하세요.,Промежуточные файлы публикации были изменены. Закройте это диалоговое окно и опубликуйте снова.,Os arquivos de teste de publicação foram modificados. Feche esta caixa de diálogo e publique novamente.,Постановчі файли публікації змінено. Закрийте це діалогове вікно та опублікуйте знову.,I file di staging di pubblicazione sono stati modificati. Chiudi questa finestra di dialogo e pubblica di nuovo.,ไฟล์การจัดเตรียมการเผยแพร่ได้รับการแก้ไขแล้ว ปิดกล่องโต้ตอบนี้แล้วเผยแพร่อีกครั้ง,Yayınlama hazırlama dosyaları değiştirildi. Bu iletişim kutusunu kapatın ve yeniden yayınlayın.,Publicera mellanlagringsfiler har ändrats. Stäng den här dialogrutan och publicera igen.
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,正在验证所需的创意工坊物品...,正在驗證所需的創意工坊物品...,Erforderliche Workshop-Artikel werden überprüft...,Verificando los elementos de taller requeridos...,Vérification des éléments requis de l'atelier...,Szükséges műhelyelemek ellenőrzése...,ワークショップに必要なアイテムを確認しています...,필수 창작마당 항목을 확인하는 중...,Проверка необходимых предметов Мастерской...,Verificando itens obrigatórios da Oficina...,Перевірка необхідних предметів майстерні...,Verifica degli articoli del Workshop richiesti...,กำลังตรวจสอบรายการเวิร์กชอปที่จำเป็น...,Gerekli Atölye öğeleri doğrulanıyor...,Verifierar obligatoriska verkstadsobjekt...
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,无法验证所需的创意工坊物品。,無法驗證所需的創意工坊物品。,Die erforderlichen Workshop-Artikel konnten nicht überprüft werden.,No se pudieron verificar los artículos requeridos del taller.,Échec de la vérification des éléments requis de l'atelier.,Nem sikerült ellenőrizni a szükséges műhelyelemeket.,ワークショップに必要なアイテムを確認できませんでした。,필수 창작마당 아이템을 확인하지 못했습니다.,Не удалось проверить необходимые предметы Мастерской.,Falha ao verificar os itens obrigatórios da Oficina.,Не вдалося перевірити необхідні елементи майстерні.,Impossibile verificare gli articoli del Workshop richiesti.,ไม่สามารถตรวจสอบรายการเวิร์กชอปที่จำเป็นได้,Gerekli Atölye öğeleri doğrulanamadı.,Det gick inte att verifiera obligatoriska verkstadsartiklar.
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,找不到或无法访问创意工坊项目 {0}。,找不到或無法存取創意工坊項目 {0}。,Workshop-Artikel {0} wurde nicht gefunden oder ist nicht zugänglich.,El elemento del taller {0} no se encontró o no se puede acceder a él.,L'élément d'atelier {0} n'a pas été trouvé ou n'est pas accessible.,A(z) {0} műhelyelem nem található vagy nem érhető el.,ワークショップ アイテム {0} が見つからないか、アクセスできません。,창작마당 항목 {0}을(를) 찾을 수 없거나 액세스할 수 없습니다.,Объект мастерской {0} не найден или недоступен.,O item da oficina {0} não foi encontrado ou não está acessível.,Елемент майстерні {0} не знайдено або недоступний.,L'elemento del workshop {0} non è stato trovato o non è accessibile.,ไม่พบรายการเวิร์กชอป {0} หรือไม่สามารถเข้าถึงได้,Atölye öğesi {0} bulunamadı veya erişilemiyor.,Verkstadsobjektet {0} hittades inte eller är inte tillgängligt.
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,创意工坊项目 {0} 不属于此应用程序。,創意工坊專案 {0} 不屬於此應用程式。,Workshop-Artikel {0} gehört nicht zu dieser App.,El artículo del taller {0} no pertenece a esta aplicación.,L'élément d'atelier {0} n'appartient pas à cette application.,A(z) {0} műhelyelem nem ehhez az alkalmazáshoz tartozik.,ワークショップ アイテム {0} はこのアプリに属していません。,창작마당 항목 {0}은(는) 이 앱에 속하지 않습니다.,Объект мастерской {0} не принадлежит этому приложению.,O item da oficina {0} não pertence a este aplicativo.,Елемент майстерні {0} не належить до цієї програми.,L'articolo del workshop {0} non appartiene a questa app.,รายการเวิร์กชอป {0} ไม่ได้เป็นของแอปนี้,Atölye öğesi {0} bu uygulamaya ait değil.,Verkstadsobjektet {0} tillhör inte den här appen.
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},视口捕获失败：{0},視窗捕獲失敗：{0},Ansichtsfenstererfassung fehlgeschlagen: {0},Error en la captura de la ventana gráfica: {0},Échec de la capture de la fenêtre : {0},A nézetablak rögzítése nem sikerült: {0},ビューポートのキャプチャに失敗しました: {0},뷰포트 캡처 실패: {0},Не удалось захватить область просмотра: {0},Falha na captura da janela de visualização: {0},Помилка захоплення області перегляду: {0},Acquisizione del viewport non riuscita: {0},การบันทึกวิวพอร์ตล้มเหลว: {0},Görünüm yakalama başarısız oldu: {0},Viewport-fångst misslyckades: {0}
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,从视口捕获预览图像。,從視窗捕獲的預覽。,Vorschau aus dem Ansichtsfenster aufgenommen.,Vista previa capturada desde la ventana gráfica.,Aperçu capturé depuis la fenêtre.,A nézetablakból rögzített előnézet.,ビューポートからキャプチャされたプレビュー。,뷰포트에서 캡처된 미리보기입니다.,Предварительный просмотр сделан из видового экрана.,Visualização capturada da viewport.,Попередній перегляд зроблено з вікна перегляду.,Anteprima catturata dal viewport.,ดูตัวอย่างที่ถ่ายจากวิวพอร์ต,Görünüm alanından çekilen önizleme.,Förhandsvisning fångad från viewport.
