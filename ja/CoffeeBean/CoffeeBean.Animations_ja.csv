@@ -1,70 +1,70 @@
 Key,en,ja,reviewed
-Alert Bits,Alert Bits,ビッツアラート,True
-Alert Donation,Alert Donation,寄付アラート,True
-Alert Heart,Alert Heart,ハートアラート,True
-Alert Like,Alert Like,いいねアラート,True
-Alert Star,Alert Star,星アラート,True
+Alert Bits,Alert Bits,ビッツ アラート,True
+Alert Donation,Alert Donation,寄付 アラート,True
+Alert Heart,Alert Heart,ハート アラート,True
+Alert Like,Alert Like,いいね アラート,True
+Alert Star,Alert Star,星 アラート,True
 Angry,Angry,怒り顔,True
 Arrive,Arrive,登場,True
 Arrive (with Chopstick),Arrive (with Chopstick),登場（箸）,True
 Arrive (with Spoon),Arrive (with Spoon),登場（スプーン）,True
-Bonk,Bonk,ボンク,True
+Bonk,Bonk,ハンマー（ボンク）,True
 Copium,Copium,コピウム（現実逃避）,True
-Crowbar 1,Crowbar 1,バール1,True
-Crowbar 2,Crowbar 2,バール2,True
-Crowbar 3,Crowbar 3,バール3,True
-Cry 1,Cry 1,泣き顔1,True
-Cry 2,Cry 2,泣き顔2,True
-Cry 3,Cry 3,泣き顔3,True
+Crowbar 1,Crowbar 1,バール 1,True
+Crowbar 2,Crowbar 2,バール 2,True
+Crowbar 3,Crowbar 3,バール 3,True
+Cry 1,Cry 1,泣き顔 1,True
+Cry 2,Cry 2,泣き顔 2,True
+Cry 3,Cry 3,泣き顔 3,True
 Dead,Dead,ダウン,True
 Dizzy,Dizzy,目まわし,True
 Drink (Beverage Cup),Drink (Beverage Cup),ドリンク（カップ）,True
 Drive,Drive,ドライブ,True
 Drooling (Chopstick),Drooling (Chopstick),よだれ（箸）,True
 Drooling (Fork&Knife),Drooling (Fork&Knife),よだれ（フォーク＆ナイフ）,True
-Dum 1,Dum 1,ほげ1,True
-Dum 2,Dum 2,ほげ2,True
-Dum 3,Dum 3,ほげ3,True
-Dum Sticker 1,Dum Sticker 1,ほげステッカー1,True
-Dum Sticker 2,Dum Sticker 2,ほげステッカー2,True
-Dum Sticker 3,Dum Sticker 3,ほげステッカー3,True
+Dum 1,Dum 1,ほげ 1,True
+Dum 2,Dum 2,ほげ 2,True
+Dum 3,Dum 3,ほげ 3,True
+Dum Sticker 1,Dum Sticker 1,ほげ ふせん 1,True
+Dum Sticker 2,Dum Sticker 2,ほげ ふせん 2,True
+Dum Sticker 3,Dum Sticker 3,ほげ ふせん 3,True
 Exclamation,Exclamation,びっくり,True
-Jail 1,Jail 1,牢屋1,True
-Jail 2,Jail 2,牢屋2,True
-Knife 1,Knife 1,ナイフ1,True
-Knife 2,Knife 2,ナイフ2,True
+Jail 1,Jail 1,牢屋 1,True
+Jail 2,Jail 2,牢屋 2,True
+Knife 1,Knife 1,ナイフ 1,True
+Knife 2,Knife 2,ナイフ 2,True
 Laugh,Laugh,笑い顔,True
 Lick,Lick,ぺろり,True
-Lightstick 1,Lightstick 1,ペンライト1,True
-Lightstick 2,Lightstick 2,ペンライト2,True
-Lurk 1,Lurk 1,ちらっ1,True
-Lurk 2,Lurk 2,ちらっ2,True
-Luv 1,Luv 1,ラブ1,True
-Luv 2,Luv 2,ラブ2,True
-Luv 3,Luv 3,ラブ3,True
+Lightstick 1,Lightstick 1,ペンライト 1,True
+Lightstick 2,Lightstick 2,ペンライト 2,True
+Lurk 1,Lurk 1,ちらっ 1,True
+Lurk 2,Lurk 2,ちらっ 2,True
+Luv 1,Luv 1,ラブ 1,True
+Luv 2,Luv 2,ラブ 2,True
+Luv 3,Luv 3,ラブ 3,True
 Money,Money,お金,True
-Mute 1,Mute 1,ミュート1,True
-Mute 2,Mute 2,ミュート2,True
-Nervous 1,Nervous 1,ドキドキ1,True
-Nervous 2,Nervous 2,ドキドキ2,True
-Noted 1,Noted 1,了解1,True
-Noted 2,Noted 2,了解2,True
+Mute 1,Mute 1,ミュート 1,True
+Mute 2,Mute 2,ミュート 2,True
+Nervous 1,Nervous 1,ドキドキ 1,True
+Nervous 2,Nervous 2,ドキドキ 2,True
+Noted 1,Noted 1,了解 1,True
+Noted 2,Noted 2,了解 2,True
 Pat,Pat,なでなで,True
 Point,Point,指さし,True
 Question,Question,はてな,True
-Raid 1,Raid 1,レイド1,True
-Raid 2,Raid 2,レイド2,True
-RedPacket 1,RedPacket 1,お年玉1,True
-RedPacket 2,RedPacket 2,お年玉2,True
+Raid 1,Raid 1,レイド 1,True
+Raid 2,Raid 2,レイド 2,True
+RedPacket 1,RedPacket 1,お年玉 1,True
+RedPacket 2,RedPacket 2,お年玉 2,True
 Rose,Rose,バラ,True
-Score (0 Point),Score (0 Point),採点（0点）,True
-Score (10 Point),Score (10 Point),採点（10点）,True
-Shy 1,Shy 1,照れ顔1,True
-Shy 2,Shy 2,照れ顔2,True
-Sleep (Normal),Sleep (Normal),寝る（通常）,True
-Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),寝る（準備1）,True
-Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),寝る（準備2）,True
-Sleep (UU),Sleep (UU),寝る（すやすや）,True
+Score (0 Point),Score (0 Point),採点（0 点）,True
+Score (10 Point),Score (10 Point),採点（10 点）,True
+Shy 1,Shy 1,照れ顔 1,True
+Shy 2,Shy 2,照れ顔 2,True
+Sleep (Normal),Sleep (Normal),睡眠（通常）,True
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),睡眠（準備 1）,True
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),睡眠（準備 2）,True
+Sleep (UU),Sleep (UU),睡眠（すやすや）,True
 Surprise,Surprise,びっくり顔,True
 Sweat,Sweat,冷や汗,True
 Thumb Down,Thumb Down,よくないね,True
@@ -76,59 +76,59 @@ Work Angry,Work Angry,作業（怒り）,True
 Work Nap,Work Nap,作業（居眠り）,True
 Work Normal,Work Normal,作業（通常）,True
 Work Tired,Work Tired,作業（疲れ）,True
-Bell,Bell,ベル,False
-Cake,Cake,ケーキ,False
-Caught in 4K (Phone),Caught in 4K (Phone),4K で撮影 (携帯電話),False
-Caught in 4K (Video Camera),Caught in 4K (Video Camera),4K（ビデオカメラ）で撮影,False
-Celebration,Celebration,お祝い,False
-Head Nod,Head Nod,うなずく,False
-Head Shake,Head Shake,首を振る,False
-Hypnosis,Hypnosis,催眠術,False
-Laugh (Point),Laugh (Point),笑い（ポイント）,False
-Love Letter,Love Letter,ラブレター,False
-Need Food,Need Food,食べ物が必要です,False
-PNGTuber Idle,PNGTuber Idle,PNGTuberアイドル,False
-PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber アイドル 2,False
-PNGTuber Loading,PNGTuber Loading,PNGTuberの読み込み,False
-PNGTuber Talk,PNGTuber Talk,PNGTuber トーク,False
-PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber トーク 2,False
-PNGTuber Yap,PNGTuber Yap,PNGチューバー ヤップ,False
-Popcat Frame,Popcat Frame,ポップキャットフレーム,False
-Popcat Smooth,Popcat Smooth,ポップキャットスムーズ,False
-Sing,Sing,歌う,False
-Tablet,Tablet,錠剤,False
-Tail Wag,Tail Wag,テールワグ,False
-Bug,Bug,バグ,False
-Cheer,Cheer,応援する,False
-Easter,Easter,イースター,False
-Gun,Gun,銃,False
-Idea,Idea,アイデア,False
-Megaphone,Megaphone,メガホン,False
-Paid Break (Easy Mode),Paid Break (Easy Mode),有給休憩（イージーモード）,False
-Paid Break (Hard Mode),Paid Break (Hard Mode),有給休憩（ハードモード）,False
-Spray,Spray,スプレー,False
-Stops Working,Stops Working,動作を停止します,False
-Sunglasses Gleam,Sunglasses Gleam,サングラスの輝き,False
-Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,サングラス ピクセル グリム,False
-Sunglasses Remove,Sunglasses Remove,サングラスを外す,False
-Swatter,Swatter,たたき,False
-Tape,Tape,テープ,False
-Trash Bin,Trash Bin,ゴミ箱,False
-TrashTuber Idle,TrashTuber Idle,トラッシュチューバーアイドル,False
-TrashTuber Talk,TrashTuber Talk,トラッシュチューバートーク,False
-TrashTuber Yap,TrashTuber Yap,トラッシュチューバー・ヤップ,False
-Cheers,Cheers,乾杯,False
-Dance 1,Dance 1,ダンス1,False
-Dance (Caramelldansen),Dance (Caramelldansen),ダンス (キャラメルダンセン),False
-Dance (Helltaker),Dance (Helltaker),ダンス (ヘルテイカー),False
-Dance (Low Cortisol),Dance (Low Cortisol),ダンス (コルチゾール低下),False
-Eat (Donut),Eat (Donut),食べる（ドーナツ）,False
-Eat (Popcorn),Eat (Popcorn),食べる（ポップコーン）,False
-Eat (Watermelon),Eat (Watermelon),食べる（スイカ）,False
-Game,Game,ゲーム,False
-Greeting 1,Greeting 1,ご挨拶1,False
-Greeting 2,Greeting 2,ご挨拶2,False
-Sparkling 1,Sparkling 1,スパークリング1,False
-Sparkling 2,Sparkling 2,スパークリング2,False
-Think (Confident),Think (Confident),考える（自信がある）,False
-Think (Serious),Think (Serious),考える（真剣）,False
+Bell,Bell,ベル,True
+Cake,Cake,ケーキ,True
+Caught in 4K (Phone),Caught in 4K (Phone),撮影 (スマホ),True
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),撮影 (ビデオカメラ),True
+Celebration,Celebration,お祝い,True
+Head Nod,Head Nod,うなずく,True
+Head Shake,Head Shake,首を振る,True
+Hypnosis,Hypnosis,催眠（スマホ）,True
+Laugh (Point),Laugh (Point),笑い（指差し）,True
+Love Letter,Love Letter,ラブレター,True
+Need Food,Need Food,ごはんほしい,True
+PNGTuber Idle,PNGTuber Idle,PNGTuber 待機,True
+PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 待機 2,True
+PNGTuber Loading,PNGTuber Loading,PNGTuber ロード中,True
+PNGTuber Talk,PNGTuber Talk,PNGTuber トーク,True
+PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber トーク 2,True
+PNGTuber Yap,PNGTuber Yap,PNGTuber おしゃべり,True
+Popcat Frame,Popcat Frame,パクパク猫（コマ送り）,True
+Popcat Smooth,Popcat Smooth,パクパク猫（なめらか）,True
+Sing,Sing,歌う,True
+Tablet,Tablet,タブレット,True
+Tail Wag,Tail Wag,しっぽ振り,True
+Bug,Bug,虫,True
+Cheer,Cheer,応援,True
+Easter,Easter,イースター,True
+Gun,Gun,銃,True
+Idea,Idea,ひらめき,True
+Megaphone,Megaphone,メガホン,True
+Paid Break (Easy Mode),Paid Break (Easy Mode),トイレ休憩（スマホ）,True
+Paid Break (Hard Mode),Paid Break (Hard Mode),トイレ休憩（大）,True
+Spray,Spray,スプレー缶,True
+Stops Working,Stops Working,動作停止,True
+Sunglasses Gleam,Sunglasses Gleam,サングラス（キラーン）,True
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,サングラス（ドット）（キラーン）,True
+Sunglasses Remove,Sunglasses Remove,サングラスを外す,True
+Swatter,Swatter,ハエたたき,True
+Tape,Tape,テープ,True
+Trash Bin,Trash Bin,ゴミ箱,True
+TrashTuber Idle,TrashTuber Idle,TrashTuber 待機,True
+TrashTuber Talk,TrashTuber Talk,TrashTuber トーク,True
+TrashTuber Yap,TrashTuber Yap,TrashTuber おしゃべり,True
+Cheers,Cheers,乾杯,True
+Dance 1,Dance 1,ダンス 1,True
+Dance (Caramelldansen),Dance (Caramelldansen),ダンス（キャラメルダンセン）,True
+Dance (Helltaker),Dance (Helltaker),ダンス（ヘルテイカー）,True
+Dance (Low Cortisol),Dance (Low Cortisol),ダンス（低コルチゾール）,True
+Eat (Donut),Eat (Donut),食べる（ドーナツ）,True
+Eat (Popcorn),Eat (Popcorn),食べる（ポップコーン）,True
+Eat (Watermelon),Eat (Watermelon),食べる（スイカ）,True
+Game,Game,ゲーム,True
+Greeting 1,Greeting 1,あいさつ 1,True
+Greeting 2,Greeting 2,あいさつ 2,True
+Sparkling 1,Sparkling 1,キラキラ 1,True
+Sparkling 2,Sparkling 2,キラキラ 2,True
+Think (Confident),Think (Confident),考える（自信あり）,True
+Think (Serious),Think (Serious),考える（ロード中）,True

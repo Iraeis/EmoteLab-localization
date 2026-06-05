@@ -2,8 +2,8 @@ Key,en,ja,reviewed
 Eyelash Length,Eyelash Length,まつげ 長さ,True
 Brows Distance,Brows Distance,眉 距離,True
 Brows Height,Brows Height,眉 高さ,True
-Ear Shape 1,Ear Shape 1,耳 形状1,True
-Ear Shape 2,Ear Shape 2,耳 形状2,True
+Ear Shape 1,Ear Shape 1,耳 形状 1,True
+Ear Shape 2,Ear Shape 2,耳 形状 2,True
 Hair Bang >< Length,Hair Bang >< Length,前髪 >< 長さ,True
 Hair Bang >< Shear,Hair Bang >< Shear,前髪 >< 傾き,True
 Hair Bang >> Position,Hair Bang >> Position,前髪 >> 位置,True
@@ -27,9 +27,9 @@ Horn << Length,Horn << Length,角 << 長さ,True
 Horn >< Length,Horn >< Length,角 中央 長さ,True
 Horn Position,Horn Position,角 位置,True
 Ear Wing Position,Ear Wing Position,耳羽 位置,True
-Wing Size,Wing Size,翼のサイズ,False
-Wing Position,Wing Position,ウイングの位置,False
-Wing Angle,Wing Angle,翼の角度,False
-Tail Size,Tail Size,尾のサイズ,False
-Tail Flip,Tail Flip,テールフリップ,False
-Tail Angle,Tail Angle,テール角度,False
+Wing Size,Wing Size,翼 サイズ,True
+Wing Position,Wing Position,翼 位置,True
+Wing Angle,Wing Angle,翼 角度,True
+Tail Size,Tail Size,しっぽ サイズ,True
+Tail Flip,Tail Flip,しっぽ 反転,True
+Tail Angle,Tail Angle,しっぽ 角度,True

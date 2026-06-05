@@ -1,7 +1,7 @@
 Key,en,ja,reviewed
 MainMenu.TabHeaderLable.Editor,Editor,エディター,True
 MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",キャラクター「{0}」を削除しますか？この操作は元に戻せません。,True
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",キャラクター「{0}」はすでに存在します。上書きしますか？この操作は元に戻せません。,True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",キャラクター「{0}」はすでに存在します。キャラクター「{0}」を上書きしますか？この操作は元に戻せません。,True
 MainMenu.Confirm,Confirm,確認,True
 MainMenu.Cancel,Cancel,キャンセル,True
 MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,キャラクター名を入力してください,True
@@ -52,8 +52,8 @@ MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,アルファし�
 MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,ディザリングを有効化,True
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,書き出し設定をリセット,True
 MainMenu.Editor.Export,Export Emote,エモートを書き出し,True
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,ライセンスはモデル制作者が提供したものです。参考情報として表示されており、EmoteLab開発者の見解や法的立場を示すものではありません。,False
-LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",ライセンスが見つかりません。使用許可は制作者に確認してください。,False
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,モデル制作者が提供したライセンスです。参照用に表示されるもので、EmoteLab開発者の見解または法的立場を示すものではありません。,True
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",このサードパーティ製モデルの制作者は、モデルにライセンスまたは利用規約を同梱していません。公開・商用・業務用途で使用する前に、利用可能な範囲をモデル制作者へ直接確認してください。,True
 LicensePopup.Close,Close,閉じる,True
 MainMenu.Editor.OpenExportFolder,Open Export Folder,書き出しフォルダを開く,True
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,組み込みモデルのサンプルキャラクターを読み込む,True
@@ -80,10 +80,10 @@ MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button t
 MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,キャラクターを保存してください。保存ボタンは画面左側のキャラクターリストの下にあります,True
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,この機能を使用する前に「カスタムテクスチャの使用」マニュアルを確認してください,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,カスタムテクスチャ,True
-MainMenu.Editor.Texture.Step1,Step 1,ステップ1,True
-MainMenu.Editor.Texture.Step2,Step 2,ステップ2,True
-MainMenu.Editor.Texture.Step3,Step 3,ステップ3,True
-MainMenu.Editor.Texture.Step4,Step 4,ステップ4,True
+MainMenu.Editor.Texture.Step1,Step 1,ステップ 1,True
+MainMenu.Editor.Texture.Step2,Step 2,ステップ 2,True
+MainMenu.Editor.Texture.Step3,Step 3,ステップ 3,True
+MainMenu.Editor.Texture.Step4,Step 4,ステップ 4,True
 MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,選択した輪郭を修正,True
 MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,選択したアトラスをリセット,True
 MainMenu.Editor.Texture.TextureUtility,Texture Utility,テクスチャツール,True
@@ -92,18 +92,18 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,選択を切り替え,T
 MainMenu.Editor.Texture.AtlasList,Atlas List,アトラス一覧,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,選択したアトラスページを初期状態にリセットします。未保存の編集は失われ、復元できません。続行しますか？,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,パレットアルゴリズム,True
-MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,これにより、選択したテクスチャ ファイルが上書きされ、元に戻すことはできません。続く？,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,選択したテクスチャファイルを上書きします。この操作は元に戻せません。続行しますか？,True
 MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
 
 You can change the language in Settings.
 
 See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","一部の言語はコミュニティによって翻訳されているか、機械翻訳によって翻訳されているため、品質が異なる場合があります。
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","一部の言語はコミュニティによる翻訳、または機械翻訳の支援を受けた翻訳のため、品質にばらつきがある場合があります。
 
 言語は設定で変更できます。
 
 <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub のコミュニティ貢献者</link>をご覧ください。
 
-貢献したいですか？ <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link> に参加してください。",False
-MainMenu.TranslationInfo.DontShowAgain,Don't show this again,これを二度と表示しないでください,False
+翻訳に参加したい場合は、<link=""https://discord.gg/Xt8dAV8YF7"">Discord</link> にご参加ください。",True
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,今後表示しない,True
