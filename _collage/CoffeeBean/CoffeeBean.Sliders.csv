@@ -33,3 +33,13 @@ Character/Wing_Angle,Wing Angle,Wing Angle,翅膀 角度,翅膀 角度,Flügel W
 Character/Tail_Size,Tail Size,Tail Size,尾巴 大小,尾巴 大小,Schwanz Größe,Tamaño de la cola,Queue Taille,Farok mérete,尾のサイズ,꼬리 크기,Хвост - Размер,Tamanho da Cauda,Розмір хвоста,Dimensione della coda,ขนาดหาง,Kuyruk Boyutu,Svansstorlek
 Character/Tail_Flip,Tail Flip,Tail Flip,尾巴 翻转,尾巴 翻轉,Schwanz Spiegeln,Voltear la cola,Queue Retournée,Tail Flip,テールフリップ,꼬리 좌우반전,Хвост - Отразить,Lado da Cauda,Перевертання хвоста,Capovolgimento della coda,พลิกหาง,Kuyruk Dönüşü,Tail Flip
 Character/Tail_Angle,Tail Angle,Tail Angle,尾巴 角度,尾巴 角度,Schwanz Winkel,Ángulo de cola,Queue Angle,Farokszög,テール角度,꼬리 각도,Хвост - Угол,Ângulo da Cauda,Кут хвоста,Angolo della coda,มุมหาง,Kuyruk Açısı,Svansvinkel
+Character/PigtailLeft_Position,Pigtail >> Position,Pigtail >> Position,
+Character/PigtailLeft_Length,Pigtail >> Length,Pigtail >> Length,
+Character/PigtailLeft_Angle,Pigtail >> Angle,Pigtail >> Angle,
+Character/PigtailRight_Position,Pigtail << Position,Pigtail << Position,
+Character/PigtailRight_Length,Pigtail << Length,Pigtail << Length,
+Character/PigtailRight_Angle,Pigtail << Angle,Pigtail << Angle,
+Character/Ponytail_Width,Ponytail Width,Ponytail Width,
+Character/Ponytail_Length,Ponytail Length,Ponytail Length,
+Character/Ponytail_Angle,Ponytail Angle,Ponytail Angle,
+Character/Alert_Size,Alert Size,Alert Size,
